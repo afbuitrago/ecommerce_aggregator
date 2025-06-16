@@ -5,7 +5,7 @@ Paso 1: Script para abrir el navegador, navegar a Jumbo.co,
 y hacer clic en el botón "Todas las categorías" para desplegar el menú.
 
 Este script utiliza Selenium para la automatización del navegador y
-prepara el terreno para usar BeautifulSoup para el análisis del HTML.
+prepara el terreno para usar BeautifulSoup para el análisis del HTML..
 """
 
 import time
