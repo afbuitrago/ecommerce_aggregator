@@ -106,5 +106,5 @@ def main():
 
 if __name__ == "__main__":
     # Para ejecutar este script, asegúrate de tener las librerías necesarias instaladas:
-    # pip install selenium beautifulsoup4 webdriver-manager
+    # pip install selenium beautifulsoup4 webdriver-manager testeo
     main()
