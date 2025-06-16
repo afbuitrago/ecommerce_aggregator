@@ -1,0 +1,3764 @@
+[
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Arroz y granos",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/arroz-y-granos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Aceite",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/aceite"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Café",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/cafe"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Bebida achocolatada en polvo",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/bebida-achocolatada-en-polvo"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Cereales",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/cereales"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Harinas y mezclas para preparar",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/harinas-y-mezclas-para-preparar"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Pastas",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/pastas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Enlatados y conservas",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/enlatados-y-conservas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Azucar, endulzantes y panelas",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/azucar-endulzantes-y-panelas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Chocolate de mesa",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/chocolate-de-mesa"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Avenas y salvado",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/avenas-y-salvado"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Condimentos, caldos y sal",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/condimentos-caldos-y-sal"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Bases, cremas y sopas",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/bases-cremas-y-sopas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Salsas y vinagres",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/salsas-y-vinagres"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Despensa",
+        "item": "Té, infusiones e instantáneos",
+        "url": "https://www.jumbocolombia.com/supermercado/despensa/te-infusiones-e-instantaneos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Leche",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/leche"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Huevos",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/huevos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Queso",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/queso"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Arepas",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/arepas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Mantequilla",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/mantequilla"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Margarina",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/margarina"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Yogurt",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/yogurt"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Kumis",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/kumis"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Avena",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/avena"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Waffles y Crepes",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/waffles-y-crepes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Tamales",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/tamales"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Leches vegetales",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/leches-vegetales"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Postres refrigerados",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/postres-refrigerados"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Lácteos, huevos y refrigerados",
+        "item": "Carnes frías y embutidos",
+        "url": "https://www.jumbocolombia.com/supermercado/lacteos-huevos-y-refrigerados/carnes-frias-y-embutidos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Frutas y Verduras",
+        "item": "Frutas",
+        "url": "https://www.jumbocolombia.com/supermercado/frutas-y-verduras/frutas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Frutas y Verduras",
+        "item": "Hortalizas",
+        "url": "https://www.jumbocolombia.com/supermercado/frutas-y-verduras/hortalizas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Frutas y Verduras",
+        "item": "Pulpa de fruta",
+        "url": "https://www.jumbocolombia.com/supermercado/frutas-y-verduras/pulpa-de-fruta"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Frutas y Verduras",
+        "item": "Hierbas",
+        "url": "https://www.jumbocolombia.com/supermercado/frutas-y-verduras/hierbas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Frutas y Verduras",
+        "item": "Flores",
+        "url": "https://www.jumbocolombia.com/supermercado/frutas-y-verduras/flores"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pescados y Mariscos",
+        "item": "Pescado fresco",
+        "url": "https://www.jumbocolombia.com/supermercado/pescados-y-mariscos/pescado-fresco"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pescados y Mariscos",
+        "item": "Mariscos",
+        "url": "https://www.jumbocolombia.com/supermercado/pescados-y-mariscos/mariscos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pescados y Mariscos",
+        "item": "Elaborados",
+        "url": "https://www.jumbocolombia.com/supermercado/pescados-y-mariscos/elaborados"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pescados y Mariscos",
+        "item": "Pescado Congelado",
+        "url": "https://www.jumbocolombia.com/supermercado/pescados-y-mariscos/pescado-congelado"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pescados y Mariscos",
+        "item": "Sushi",
+        "url": "https://www.jumbocolombia.com/supermercado/pescados-y-mariscos/sushi"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Carne Res",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/carne-res"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Pollo",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/pollos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Carne Cerdo",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/carne-cerdo"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Carne Cordero",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/carne-cordero"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Ternera",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/ternera"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Pavo",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/pavo"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Conejo",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/conejo"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Elaborados para parrilla",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/elaborados-para-parrilla"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Carne y Pollo",
+        "item": "Vísceras de Res",
+        "url": "https://www.jumbocolombia.com/supermercado/carne-y-pollo/viceras-de-res"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Panadería y Pastelería",
+        "item": "Panadería Artesanal",
+        "url": "https://www.jumbocolombia.com/supermercado/panaderia-y-pasteleria/panaderia-artesanal"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Panadería y Pastelería",
+        "item": "Panadería empacada",
+        "url": "https://www.jumbocolombia.com/supermercado/panaderia-y-pasteleria/panaderia-empacada"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Panadería y Pastelería",
+        "item": "Pastelería",
+        "url": "https://www.jumbocolombia.com/supermercado/panaderia-y-pasteleria/pasteleria"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Panadería y Pastelería",
+        "item": "Antojos",
+        "url": "https://www.jumbocolombia.com/supermercado/panaderia-y-pasteleria/antojos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Dulces y postres",
+        "item": "Crema leche y leche condensada",
+        "url": "https://www.jumbocolombia.com/supermercado/dulces-y-postres/crema-leche-y-leche-condensada"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Dulces y postres",
+        "item": "Arequipe",
+        "url": "https://www.jumbocolombia.com/supermercado/dulces-y-postres/arequipe"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Dulces y postres",
+        "item": "Gelatinas, flanes y pudines",
+        "url": "https://www.jumbocolombia.com/supermercado/dulces-y-postres/gelatinas-flanes-y-pudines"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Dulces y postres",
+        "item": "Repostería",
+        "url": "https://www.jumbocolombia.com/supermercado/dulces-y-postres/reposteria"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Dulces y postres",
+        "item": "Chocolatería",
+        "url": "https://www.jumbocolombia.com/supermercado/dulces-y-postres/chocolateria"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Dulces y postres",
+        "item": "Confitería",
+        "url": "https://www.jumbocolombia.com/supermercado/dulces-y-postres/confiteria"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Dulces y postres",
+        "item": "Dulces típicos",
+        "url": "https://www.jumbocolombia.com/supermercado/dulces-y-postres/dulces-tipicos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pasabocas",
+        "item": "Papas fritas y paquetes",
+        "url": "https://www.jumbocolombia.com/supermercado/pasabocas/papas-fritas-y-paquetes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pasabocas",
+        "item": "Frutos Secos",
+        "url": "https://www.jumbocolombia.com/supermercado/pasabocas/frutos-secos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pasabocas",
+        "item": "Galletas dulces",
+        "url": "https://www.jumbocolombia.com/supermercado/pasabocas/galletas-dulces"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pasabocas",
+        "item": "Galletas saladas",
+        "url": "https://www.jumbocolombia.com/supermercado/pasabocas/galletas-saladas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pasabocas",
+        "item": "Galletas dietéticas y saludables",
+        "url": "https://www.jumbocolombia.com/supermercado/pasabocas/galletas-dieteticas-y-saludables"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pasabocas",
+        "item": "Mermelada y Cremas de untar",
+        "url": "https://www.jumbocolombia.com/supermercado/pasabocas/mermelada-y-cremas-de-untar"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Pasabocas",
+        "item": "Pasabocas para microondas",
+        "url": "https://www.jumbocolombia.com/supermercado/pasabocas/pasabocas-para-microondas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Charcutería",
+        "item": "Tablas de quesos",
+        "url": "https://www.jumbocolombia.com/supermercado/charcuteria/tablas-de-quesos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Charcutería",
+        "item": "Carnes frías maduradas y ahumadas",
+        "url": "https://www.jumbocolombia.com/supermercado/charcuteria/carnes-frias-maduradas-y-ahumadas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Charcutería",
+        "item": "Quesos especializados",
+        "url": "https://www.jumbocolombia.com/supermercado/charcuteria/quesos-especializados"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Charcutería",
+        "item": "Encurtidos y otros",
+        "url": "https://www.jumbocolombia.com/supermercado/charcuteria/encurtidos-y-otros"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Vino",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/vino"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Whisky",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/whisky"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Cervezas",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/cervezas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Tequilas y piscos",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/tequilas-y-piscos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Aguardiente",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/aguardiente"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Ron",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/ron"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Ginebra",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/ginebra"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Champañas y espumoso",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/champanas-y-espumoso"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Vodka",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/vodka"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Cognac",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/cognac"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Brandy",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/brandy"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Vinos y Licores",
+        "item": "Aperitivos",
+        "url": "https://www.jumbocolombia.com/supermercado/vinos-y-licores/aperitivos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Bebidas",
+        "item": "Agua",
+        "url": "https://www.jumbocolombia.com/supermercado/bebidas/agua"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Bebidas",
+        "item": "Jugos, Refrescos y Maltas",
+        "url": "https://www.jumbocolombia.com/supermercado/bebidas/jugos-refrescos-y-maltas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Bebidas",
+        "item": "Gaseosas",
+        "url": "https://www.jumbocolombia.com/supermercado/bebidas/gaseosas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Bebidas",
+        "item": "Té Líquido",
+        "url": "https://www.jumbocolombia.com/supermercado/bebidas/te-liquido"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Bebidas",
+        "item": "Hidratantes",
+        "url": "https://www.jumbocolombia.com/supermercado/bebidas/hidratantes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Bebidas",
+        "item": "Energizantes",
+        "url": "https://www.jumbocolombia.com/supermercado/bebidas/energizantes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Limpieza de superficies",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/limpieza-de-superficies"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Limpieza W.C.",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/limpieza-w-c-"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Multiusos",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/multiusos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Alfombras",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/alfombras"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Ambientadores",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/ambientadores"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Desinfectantes",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/desinfectantes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Insecticidas",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/insecticidas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Blanqueadores",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/blanqueadores"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Cera",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/cera"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Aseo del Hogar",
+        "item": "Organizadores de aseo",
+        "url": "https://www.jumbocolombia.com/supermercado/aseo-de-hogar/organizadores-de-aseo"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Shampoo",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/shampoo"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Acondicionadores y tratamientos",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/acondicionadores-y-tratamientos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Papel higiénico",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/papel-higienico"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Pañuelos",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/panuelos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Desodorantes",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/desodorantes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Cuidado Oral",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/cuidado-oral"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Protección Femenina",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/proteccion-femenina"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Protección Adulta",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/proteccion-adulta"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Cuidado de pies",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/cuidado-de-pies"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Afeitado",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/afeitado"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Gel y Fijadores",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/gel-y-fijadores"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Jabones de tocador",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/jabones-de-tocador"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Botiquín",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-personal/botiquin"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Maquillaje",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/maquillaje"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Cuidado Facial",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/cuidado-facial"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Cremas Corporales",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/cremas-corporales"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Coloración",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/coloracion"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Accesorios de Belleza",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/accesorios-de-belleza"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Protección Solar",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/proteccion-solar"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Depilación",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/depilacion"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Fragancias",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/fragancias"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Belleza",
+        "item": "Repelentes",
+        "url": "https://www.jumbocolombia.com/supermercado/belleza/repelentes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado de ropa y calzado",
+        "item": "Detergentes",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-de-ropa-y-calzado/detergentes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado de ropa y calzado",
+        "item": "Suavizantes",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-de-ropa-y-calzado/suavizantes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado de ropa y calzado",
+        "item": "Jabones de Barra",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-de-ropa-y-calzado/jabones-de-barra"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado de ropa y calzado",
+        "item": "Desmanchadores",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-de-ropa-y-calzado/desmanchadores"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado de ropa y calzado",
+        "item": "Prelavado y preplanchado",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-de-ropa-y-calzado/prelavado-y-preplanchado"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado de ropa y calzado",
+        "item": "Betún",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-de-ropa-y-calzado/betun"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Limpieza de cocina",
+        "item": "Lavalozas",
+        "url": "https://www.jumbocolombia.com/supermercado/limpieza-de-cocina/lavalozas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Limpieza de cocina",
+        "item": "Esponjas y fibras",
+        "url": "https://www.jumbocolombia.com/supermercado/limpieza-de-cocina/esponjas-y-fibras"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Limpieza de cocina",
+        "item": "Servilletas y papel aluminio",
+        "url": "https://www.jumbocolombia.com/supermercado/limpieza-de-cocina/servilletas-y-papel-aluminio"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Limpieza de cocina",
+        "item": "Guantes",
+        "url": "https://www.jumbocolombia.com/supermercado/limpieza-de-cocina/guantes"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Limpieza de cocina",
+        "item": "Bolsas de basura",
+        "url": "https://www.jumbocolombia.com/supermercado/limpieza-de-cocina/bolsas-de-basura"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Limpieza de cocina",
+        "item": "Baldes, escobas y accesorios",
+        "url": "https://www.jumbocolombia.com/supermercado/limpieza-de-cocina/baldes-escobas-y-accesorios"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Limpieza de cocina",
+        "item": "Toallas y Paños De Cocina",
+        "url": "https://www.jumbocolombia.com/supermercado/limpieza-de-cocina/toallas-y-panos-de-cocina"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Fruta y ensaladas",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/fruta-y-ensaladas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Sandwich",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/sandwich"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Comida Rapida",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/comida-rapida"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Varios",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/varios"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Apanados",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/apanados"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Pollo Asado",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/pollo-asado"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Empanadas",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/empanadas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Hamburguesas y embutidos",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/hamburguesas-y-embutidos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Helados",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/helados"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Hielo",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/hielo"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Masas y snacks",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/masas-y-snacks"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Panadería Congelada",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/panaderia-congelada"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Papas, yucas y patacones",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/papas-yucas-y-patacones"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Pastelería Congelada",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/pasteleria-congelada"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Pizza y pastas congeladas",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/pizza-y-pastas-congeladas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Platos preparados congelados",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/platos-preparados-congelados"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Platos Preparados",
+        "item": "Verduras Congeladas",
+        "url": "https://www.jumbocolombia.com/supermercado/platos-preparados/verduras-congeladas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Mundo parrilla",
+        "item": "Accesorios de parrilla",
+        "url": "https://www.jumbocolombia.com/supermercado/mundo-parrilla/accesorios-de-parrilla"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Mundo parrilla",
+        "item": "Carbón y encendedores",
+        "url": "https://www.jumbocolombia.com/supermercado/mundo-parrilla/carbon-y-encendedores"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Alimentación",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/alimentacion"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Compotas",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/compotas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Féculas",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/feculas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Leche formulada",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/leche-formulada"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Higiene infantil",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/higiene-infantil"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Leche infantil",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/leche-infantil"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Pañales",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/panales"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Paños húmedos",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/panos-humedos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cuidado del bebé",
+        "item": "Papillas",
+        "url": "https://www.jumbocolombia.com/supermercado/cuidado-del-bebe/papillas"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cigarrillos Y Tabacos",
+        "item": "Cigarrillos",
+        "url": "https://www.jumbocolombia.com/supermercado/cigarrillos-y-tabacos/cigarrillos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cigarrillos Y Tabacos",
+        "item": "Cigarrillos Electrónicos",
+        "url": "https://www.jumbocolombia.com/supermercado/cigarrillos-y-tabacos/cigarrillos-electronicos"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cigarrillos Y Tabacos",
+        "item": "Encendedores Y Fosforos",
+        "url": "https://www.jumbocolombia.com/supermercado/cigarrillos-y-tabacos/"
+    },
+    {
+        "categoria_principal": "Supermercado",
+        "sub_categoria": "Cigarrillos Y Tabacos",
+        "item": "Picadura",
+        "url": "https://www.jumbocolombia.com/supermercado/cigarrillos-y-tabacos/picadura"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "Celulares",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/celulares"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "Smartwatch y Smartbands",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/smartwatch-y-smartbands"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "Telefonía Fija",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/telefonia-fija"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "SAMSUNG",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/samsung"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "APPLE",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/apple"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "XIAOMI",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/xiaomi"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "MOTOROLA",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/motorola"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "TECNO",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/tecno?map=category-1,category-1,brand"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "VIVO",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/vivo"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "INFINIX",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/infinix"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Celulares y Smartwatch",
+        "item": "REALME",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/celulares-y-smartwatch/realme"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Accesorios Celulares",
+        "item": "Baterías Externas",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/accesorios-celulares/baterias-externas"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Accesorios Celulares",
+        "item": "Cargadores y Cables",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/accesorios-celulares/cargadores-y-cables"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Accesorios Celulares",
+        "item": "Audífonos",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/audio/audifonos"
+    },
+    {
+        "categoria_principal": "Celulares y Telefonía",
+        "sub_categoria": "Accesorios Celulares",
+        "item": "Otros Accesorios",
+        "url": "https://www.jumbocolombia.com/celulares-y-telefonia/accesorios-celulares/otros-accesorios"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Televisión",
+        "item": "LG",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/television/lg"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Televisión",
+        "item": "Samsung",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/television/samsung"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Televisión",
+        "item": "Caixun",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/television/caixun"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Televisión",
+        "item": "TCL",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/television/tcl"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Televisión",
+        "item": "Challenger",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/television/challenger"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Televisión",
+        "item": "Hyundai",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/television/hyundai"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Televisión",
+        "item": "Hisense",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/television/hisense"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Accesorios Tv",
+        "item": "Soportes de Tv",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/accesorios-tv/soportes-de-tv"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Accesorios Tv",
+        "item": "Convertidores de Tv",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/accesorios-tv/convertidores-de-tv"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Accesorios Tv",
+        "item": "Antenas TDT",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/accesorios-tv/antenas-tdt"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Accesorios Tv",
+        "item": "Decodificadores",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/accesorios-tv/decodificadores"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Audio",
+        "item": "Barras de sonido",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/audio/barras-de-sonido"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Audio",
+        "item": "Torres de sonido",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/audio/torres-de-sonido"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Audio",
+        "item": "Minicomponentes",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/audio/minicomponentes"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Audio",
+        "item": "Audífonos",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/audio/audifonos"
+    },
+    {
+        "categoria_principal": "Televisores y Audio",
+        "sub_categoria": "Audio",
+        "item": "Parlantes",
+        "url": "https://www.jumbocolombia.com/televisores-y-audio/audio/parlantes"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Informática",
+        "item": "Computadores Portátiles",
+        "url": "https://www.jumbocolombia.com/tecnologia/informatica/computadores-portatiles"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Informática",
+        "item": "Computadores de Escritorio y All in One",
+        "url": "https://www.jumbocolombia.com/tecnologia/informatica/computadores-de-escritorio-y-all-in-one"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Informática",
+        "item": "Monitores",
+        "url": "https://www.jumbocolombia.com/tecnologia/informatica/monitores"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Informática",
+        "item": "Proyectores",
+        "url": "https://www.jumbocolombia.com/tecnologia/informatica/proyectores"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Informática",
+        "item": "Tablets",
+        "url": "https://www.jumbocolombia.com/tecnologia/informatica/tablets"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Informática",
+        "item": "Licencias De Software",
+        "url": "https://www.jumbocolombia.com/tecnologia/informatica/licencias-de-software"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Consolas y Videojuegos",
+        "item": "Consolas",
+        "url": "https://www.jumbocolombia.com/tecnologia/consolas-y-videojuegos/consolas"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Consolas y Videojuegos",
+        "item": "Videojuegos",
+        "url": "https://www.jumbocolombia.com/tecnologia/consolas-y-videojuegos/videojuegos"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Consolas y Videojuegos",
+        "item": "Accesorios Videojuegos",
+        "url": "https://www.jumbocolombia.com/tecnologia/consolas-y-videojuegos/accesorios-videojuegos"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Consolas y Videojuegos",
+        "item": "Sillas Gaming",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-oficina-y-estudio/sillas-gaming"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Consolas y Videojuegos",
+        "item": "Portátiles Gaming",
+        "url": "https://www.jumbocolombia.com/tecnologia/informatica/gamer?_q=GAMer&fuzzy=0&initialMap=ft&initialQuery=gamer&map=category-2,ft&operator=and"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Impresión",
+        "item": "Impresoras Y Multifuncionales",
+        "url": "https://www.jumbocolombia.com/tecnologia/impresion/impresoras-y-multifuncionales"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Impresión",
+        "item": "Tintas Y Cartuchos",
+        "url": "https://www.jumbocolombia.com/tecnologia/impresion/tintas-y-cartuchos"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Almacenamiento",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/almacenamiento"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Bases Refrigerantes",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/bases-refrigerantes"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Cables",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/cables"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Casa Inteligente",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/casa-inteligente"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Morrales y Fundas PC",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/morrales-y-fundas-pc"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Mouse",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/mouse"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Otros Accesorios",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/otros-accesorios"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Speakers PC y Diademas",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/speakers-pc-y-diademas"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Teclados",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/teclados"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Cámaras Web",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/camaras-web"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Accesorios Para Computador",
+        "item": "Routers Y Amplificadores",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/routers-y-amplificadores"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Cámaras y Drones",
+        "item": "Accesorios Cámaras",
+        "url": "https://www.jumbocolombia.com/tecnologia/camaras-y-drones/accesorios-camaras"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Cámaras y Drones",
+        "item": "Cámaras",
+        "url": "https://www.jumbocolombia.com/tecnologia/camaras-y-drones/camara"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Cámaras y Drones",
+        "item": "Drones",
+        "url": "https://www.jumbocolombia.com/tecnologia/camaras-y-drones/drones"
+    },
+    {
+        "categoria_principal": "Tecnología",
+        "sub_categoria": "Cámaras y Drones",
+        "item": "Cámaras Web",
+        "url": "https://www.jumbocolombia.com/tecnologia/accesorios-para-computador/camaras-web"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Refrigeración",
+        "item": "Neveras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/refrigeracion/neveras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Refrigeración",
+        "item": "Nevecones",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/refrigeracion/nevecones"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Refrigeración",
+        "item": "Minibares",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/refrigeracion/minibares"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Refrigeración",
+        "item": "Cavas de Vino",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/refrigeracion/cavas-de-vino"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Refrigeración",
+        "item": "Congeladores",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/refrigeracion/congeladores"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Lavadoras y Secadoras",
+        "item": "Lavadoras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/lavadoras-y-secadoras/lavadoras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Lavadoras y Secadoras",
+        "item": "Secadoras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/lavadoras-y-secadoras/secadoras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Lavadoras y Secadoras",
+        "item": "Lavadoras-Secadoras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/lavadoras-y-secadoras/lavadoras-secadoras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Climatización",
+        "item": "Aires Acondicionados",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/climatizacion/aires-acondicionados"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Climatización",
+        "item": "Calentadores de Ambiente",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/climatizacion/calentadores-de-ambiente"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Climatización",
+        "item": "Ventiladores",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/climatizacion/ventiladores"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Freidoras de Aire",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/freidoras-de-aire"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Licuadoras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/licuadoras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Cafeteras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/cafeteras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Ollas Arroceras y Multifuncionales",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/ollas-arroceras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Planchas de Ropa",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/planchas-de-ropa"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Hornos Microondas",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/hornos-microondas"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Aspiradoras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/aspiradoras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Batidoras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/batidoras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Extractores y Exprimidores",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/extractores-y-exprimidores"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Sanducheras y Wafleras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/sanducheras-y-wafleras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Procesadores De Alimentos",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/procesadores-de-alimentos"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Pequeños Electrodomésticos",
+        "item": "Accesorios y Repuestos",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/pequenos-electrodomesticos/accesorios-y-repuestos"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cocina",
+        "item": "Estufas",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cocina/estufas"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cocina",
+        "item": "Hornos de Empotrar",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cocina/hornos-de-empotrar"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cocina",
+        "item": "Calentadores de Agua",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cocina/calentadores-de-agua"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cocina",
+        "item": "Campanas Extractoras",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cocina/campanas-extractoras"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cocina",
+        "item": "Lavavajillas",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cocina/lavavajillas"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cocina",
+        "item": "Estufas de Empotrar",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cocina/estufas-de-empotrar"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Planchas para el cabello",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cuidado-personal/planchas-para-el-cabello"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Secadores de Cabello",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cuidado-personal/secadores-de-cabello"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Depiladoras Eléctricas",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cuidado-personal/depiladoras-electricas"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Cuidado Personal",
+        "item": "Maquinas de Afeitar",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/cuidado-personal/maquinas-de-afeitar"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Mejores Marcas",
+        "item": "Samsung",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/mejores-marcas/samsung"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Mejores Marcas",
+        "item": "Whirlpool",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/mejores-marcas/whirlpool"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Mejores Marcas",
+        "item": "Mabe",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/mejores-marcas/mabe"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Mejores Marcas",
+        "item": "Haceb",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/mejores-marcas/haceb"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Mejores Marcas",
+        "item": "Midea",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/mejores-marcas/midea"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Mejores Marcas",
+        "item": "LG",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/mejores-marcas/lg"
+    },
+    {
+        "categoria_principal": "Electrodomésticos",
+        "sub_categoria": "Mejores Marcas",
+        "item": "Challenger",
+        "url": "https://www.jumbocolombia.com/electrodomesticos/mejores-marcas/challenger"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Bodys Y Mamelucos",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/bodys-y-mamelucos"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Camisas Y Camisetas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/camisas-y-camisetas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Pantalones Y Shorts",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/pantalones-y-shorts"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Conjuntos",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/conjuntos"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Chaquetas Y Busos",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/chaquetas-y-busos"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Zapatos",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/zapatos"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Pijamas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/pijamas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Accesorios",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/accesorios"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Ropa para bebés",
+        "item": "Vestidos Y Faldas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/ropa-bebes/vestidos-y-faldas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Cuarto del Bebé",
+        "item": "Adhesivos de pared",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/cuarto-del-bebe/adhesivos-de-pared"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Cuarto del Bebé",
+        "item": "Almohadas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/cuarto-del-bebe/almohadas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Cuarto del Bebé",
+        "item": "Corrales y cunas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/cuarto-del-bebe/corrales-y-cunas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Cuarto del Bebé",
+        "item": "Cuadros",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/cuarto-del-bebe/cuadros"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Cuarto del Bebé",
+        "item": "Fundas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/cuarto-del-bebe/fundas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Accesorios e higiene",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/accesorios-e-higiene"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Aspirador Nasal",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/aspirador-nasal"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Bacinillas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/bacinillas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Bañeras",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/baneras"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Bañeras y Bacinillas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/baneras-y-bacinillas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Corta Uñas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/corta-unas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Entrenadores",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/entrenadores"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Toallas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/toallas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Llamadientes",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/llamadientes"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Mordedera",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/mordedera"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Set cepillo y peine",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/set-cepillo-y-peine"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Set higiene bucal",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/set-higiene-bucal"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Aseo e Higiene Infantil",
+        "item": "Termómetro",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/aseo-e-higiene-infantil/termometro"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Accesorios",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/accesorios"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Baberos y toallas",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/baberos-y-toallas"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Extractores y Lactancia",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/extractores-y-lactancia"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Platos y Utensilios",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/platos-y-utensilios"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Preparación de Alimentos",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/preparacion-de-alimentos"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Sillas Comedores",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/sillas-comedores"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Teteros y Chupos",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/teteros-y-chupos"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Accesorios Alimentación",
+        "item": "Vasos",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/accesorios-alimentacion/vasos"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Paseo y Viajes",
+        "item": "Accesorios para Coches",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/paseo-y-viajes/accesorios-para-coches"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Paseo y Viajes",
+        "item": "Coches y paseadores",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/paseo-y-viajes/coches-y-paseadores"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Paseo y Viajes",
+        "item": "Pañaleras",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/paseo-y-viajes/panaleras"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Paseo y Viajes",
+        "item": "Portabebés y cargadores",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/paseo-y-viajes/portabebes-y-cargadores"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Paseo y Viajes",
+        "item": "Sillas para auto",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/paseo-y-viajes/sillas-para-auto"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Desarrollo y Estimulación",
+        "item": "Caminadores",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/desarrollo-y-estimulacion/caminadores"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Desarrollo y Estimulación",
+        "item": "Gimnasios y tapetes",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/desarrollo-y-estimulacion/gimnasios-y-tapetes"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Desarrollo y Estimulación",
+        "item": "Juguetes para Bebés",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/desarrollo-y-estimulacion/juguetes-para-bebes"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Desarrollo y Estimulación",
+        "item": "Seguridad en casa",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/desarrollo-y-estimulacion/seguridad-en-casa"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Lencería y decoración",
+        "item": "Protector cuna",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/lenceria-y-decoracion/protector-cuna?order=OrderByBestDiscountDESC"
+    },
+    {
+        "categoria_principal": "Mundo bebés",
+        "sub_categoria": "Lencería y decoración",
+        "item": "Set juego de cuna",
+        "url": "https://www.jumbocolombia.com/mundo-bebes/lenceria-y-decoracion/set-juego-de-cuna?order=OrderByBestDiscountDESC"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de sala y estar",
+        "item": "Mesas de sala",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-sala-y-estar/mesas-de-sala"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de sala y estar",
+        "item": "Muebles de bar",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-sala-y-estar/muebles-de-bar"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de sala y estar",
+        "item": "Muebles de TV",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-sala-y-estar/muebles-de-tv"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de sala y estar",
+        "item": "Repisas y Soportes",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-sala-y-estar/repisas-y-soportes"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de sala y estar",
+        "item": "Sofas, Sofacamas y Puffs",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-sala-y-estar/sofas-sofacamas-y-puffs"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles para Habitación",
+        "item": "Armarios y closets",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-para-habitacion/armarios-y-closets"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles para Habitación",
+        "item": "Camas y base camas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-para-habitacion/camas-y-base-camas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles para Habitación",
+        "item": "Cómodas, Cajoneras y Zapateros",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-para-habitacion/comodas-cajoneras-y-zapateros"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles para Habitación",
+        "item": "Mesas de noche y cabeceros",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-para-habitacion/mesas-de-noche-y-cabeceros"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Mesa y cocina",
+        "item": "Cristalería",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/mesa-y-cocina/cristaleria"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Mesa y cocina",
+        "item": "Cubiertos y cuchillos",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/mesa-y-cocina/cubiertos-y-cuchillos"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Mesa y cocina",
+        "item": "Desechables",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/mesa-y-cocina/desechables"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de oficina y estudio",
+        "item": "Bibliotecas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-oficina-y-estudio/bibliotecas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de oficina y estudio",
+        "item": "Escritorios",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-oficina-y-estudio/escritorios"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de oficina y estudio",
+        "item": "Organizadores",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-oficina-y-estudio/organizadores"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de oficina y estudio",
+        "item": "Sillas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-oficina-y-estudio/sillas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de oficina y estudio",
+        "item": "Sillas Gaming",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-oficina-y-estudio/sillas-gaming"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de cocina y comedor",
+        "item": "Auxiliares",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-cocina-y-comedor/auxiliares"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de cocina y comedor",
+        "item": "Bifés, consolas y bares",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-cocina-y-comedor/bifes-consolas-y-bares"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de cocina y comedor",
+        "item": "Butacos y taburetes",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-cocina-y-comedor/butacos-y-taburetes"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de cocina y comedor",
+        "item": "Cocinas integrales",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-cocina-y-comedor/cocinas-integrales"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de cocina y comedor",
+        "item": "Comedores",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-cocina-y-comedor/comedores"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de cocina y comedor",
+        "item": "Gabinetes",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-cocina-y-comedor/gabinetes"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Muebles de cocina y comedor",
+        "item": "Mesas y sillas plegables",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/muebles-de-cocina-y-comedor/mesas-y-sillas-plegables"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Colchones",
+        "item": "Colchoneta",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/colchones/colchoneta"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Colchones",
+        "item": "Espumas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/colchones/espumas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Colchones",
+        "item": "Infantiles",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/colchones/infantiles"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Colchones",
+        "item": "Ortopédicos",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/colchones/ortopedicos"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Colchones",
+        "item": "Resortados",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/colchones/resortados"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Almohadas y Cojines",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/almohadas-y-cojines"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Cobijas y mantas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/cobijas-y-mantas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Duvets",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/duvets"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Edredones y sábanas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/edredones-y-sabanas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Juegos de cama",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/juegos-de-cama"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Plumones",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/plumones"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Protectores de Colchón",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/protectores-de-colchon"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Ropa de cama",
+        "item": "Toallas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/ropa-de-cama/toallas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Terraza y exterior",
+        "item": "Asadores y accesorios",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/terraza-y-exterior/asadores-y-accesorios"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Terraza y exterior",
+        "item": "Asoleadores y Hamacas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/terraza-y-exterior/asoleadores-y-hamacas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Terraza y exterior",
+        "item": "Juegos de terraza",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/terraza-y-exterior/juegos-de-terraza"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Terraza y exterior",
+        "item": "Mesas y sillas de terraza",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/terraza-y-exterior/mesas-y-sillas-de-terraza"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Decoración y organización",
+        "item": "Accesorios para baño",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/decoracion-y-organizacion/accesorios-para-bano"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Decoración y organización",
+        "item": "Arte de pared",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/decoracion-y-organizacion/arte-de-pared"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Decoración y organización",
+        "item": "Cajas organizadoras",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/decoracion-y-organizacion/cajas-organizadoras"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Decoración y organización",
+        "item": "Tapetes y Alfombras",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/decoracion-y-organizacion/tapetes-y-alfombras"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Decoración y organización",
+        "item": "Lámparas e Iluminación",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/decoracion-y-organizacion/lamparas-e-iluminacion"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Decoración y organización",
+        "item": "Persianas y cortinas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/decoracion-y-organizacion/persianas-y-cortinas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Decoración y organización",
+        "item": "Otros",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/decoracion-y-organizacion/otros"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Organización de cocina",
+        "item": "Refractarias y Bowls",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/organizacion-de-cocina/refractarias-y-bowls"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Organización de cocina",
+        "item": "Reposteria",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/organizacion-de-cocina/reposteria"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Organización de cocina",
+        "item": "Tablas y bandejas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/organizacion-de-cocina/tablas-y-bandejas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Organización de cocina",
+        "item": "Sartenes y Ollas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/organizacion-de-cocina/sartenes-y-ollas"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Organización de cocina",
+        "item": "Textil Cocina",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/organizacion-de-cocina/textil-cocina"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Organización de cocina",
+        "item": "Utensilios de Cocina",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/organizacion-de-cocina/utensilios-de-cocina"
+    },
+    {
+        "categoria_principal": "Hogar y decoración",
+        "sub_categoria": "Organización de cocina",
+        "item": "Vajillas",
+        "url": "https://www.jumbocolombia.com/hogar-y-decoracion/organizacion-de-cocina/vajillas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Boxers",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/boxers"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Camisas y camisetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/camisas-y-camisetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Chaquetas y Sacos",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/chaquetas-y-sacos"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Gafas y Accesorios",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/gafas-y-accesorios"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Medias",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/medias"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Pantalones y Jeans",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/pantalones-y-jeans"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Pijamas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/pijamas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Ropa Deportiva",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/ropa-deportiva"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Hombre",
+        "item": "Zapatos",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/hombre/zapatos"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Abrigos y Chaquetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/abrigos-y-chaquetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Blusas y Camisas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/blusas-y-camisas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Brasieres",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/brasieres"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Bolsos Y Accesorios",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/bolsos-y-accesorios"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Camisetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/camisetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Medias",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/medias"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Pantalones y Jeans",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/pantalones-y-jeans"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Pantys Y Fajas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/pantys-y-fajas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Pijamas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/pijamas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Ropa Deportiva",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/ropa-deportiva"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Vestidos y Faldas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/vestidos-y-faldas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Vestidos De Baño",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/vestidos-de-bano"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Mujer",
+        "item": "Zapatos",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/mujer/zapatos"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Bermudas y pantalonetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/bermudas-y-pantalonetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Buzos y Chaquetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/buzos-y-Chaquetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Camisas Y Camisetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/camisas-y-camisetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Pantalones y Jeans",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/pantalones-y-jeans"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Pijamas y batas de baño",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/pijamas-y-batas-de-bano"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Ropa Interior",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/ropa-Interior"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Sudaderas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/sudaderas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niños",
+        "item": "Zapatos",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninos/zapatos"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Buzos y Chaquetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/buzos-y-chaquetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Camisas y camisetas",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/camisas-y-camisetas"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Conjuntos y sets",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/conjuntos-y-sets"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Faldas y Shorts",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/faldas-y-shorts"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Pantalones y Jeans",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/pantalones-y-jeans"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Pijamas y batas de baño",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/pijamas-y-batas-de-bano"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Ropa interior",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/ropa-interior"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Vestidos y enterizos",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/vestidos-y-enterizos"
+    },
+    {
+        "categoria_principal": "Ropa y Accesorios",
+        "sub_categoria": "Niñas",
+        "item": "Zapatos",
+        "url": "https://www.jumbocolombia.com/ropa-y-accesorios/ninas/zapatos"
+    },
+    {
+        "categoria_principal": "Salud y Bienestar",
+        "sub_categoria": "Droguería",
+        "item": "Bienestar Sexual",
+        "url": "https://www.jumbocolombia.com/salud-y-bienestar/drogueria/bienestar-sexual"
+    },
+    {
+        "categoria_principal": "Salud y Bienestar",
+        "sub_categoria": "Droguería",
+        "item": "Curación",
+        "url": "https://www.jumbocolombia.com/salud-y-bienestar/drogueria/curacion"
+    },
+    {
+        "categoria_principal": "Salud y Bienestar",
+        "sub_categoria": "Droguería",
+        "item": "Dolor e Inflamación",
+        "url": "https://www.jumbocolombia.com/salud-y-bienestar/drogueria/dolor-e-inflamacion"
+    },
+    {
+        "categoria_principal": "Salud y Bienestar",
+        "sub_categoria": "Droguería",
+        "item": "Estómago",
+        "url": "https://www.jumbocolombia.com/salud-y-bienestar/drogueria/estomago"
+    },
+    {
+        "categoria_principal": "Salud y Bienestar",
+        "sub_categoria": "Droguería",
+        "item": "Gripa y Tos",
+        "url": "https://www.jumbocolombia.com/salud-y-bienestar/drogueria/gripa-y-tos"
+    },
+    {
+        "categoria_principal": "Salud y Bienestar",
+        "sub_categoria": "Droguería",
+        "item": "Naturistas",
+        "url": "https://www.jumbocolombia.com/salud-y-bienestar/drogueria/naturistas"
+    },
+    {
+        "categoria_principal": "Salud y Bienestar",
+        "sub_categoria": "Droguería",
+        "item": "Suplementos y Multivitamínicos",
+        "url": "https://www.jumbocolombia.com/salud-y-bienestar/drogueria/suplementos-y-multivitaminicos"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Bancos de ejercicio",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/bancos-de-ejercicio"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Barras, guantes, pesas y otros",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/barras-guantes-pesas-y-otros"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Básculas",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/basculas"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Bicicletas estáticas y spinning",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/bicicletas-estaticas-y-spinning"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Elípticas",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/elipticas"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Monitores de ritmo cardiaco",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/monitores-de-ritmo-cardiaco"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Termos",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/termos"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Multifuncionales y fuerza",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/multifuncionales-y-fuerza"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Accesorios Fitness",
+        "item": "Trotadoras y Caminadoras",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/accesorios-fitness/trotadoras-y-caminadoras"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Bicicletas",
+        "item": "Accesorios para Bicicletas",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/bicicletas/accesorios-para-bicicletas"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Bicicletas",
+        "item": "Bicicletas Adultos",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/bicicletas/bicicletas-adultos"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Bicicletas",
+        "item": "Bicicletas Infantiles",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/bicicletas/bicicletas-infantiles"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Camping",
+        "item": "Accesorios Camping",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/camping/accesorios-camping"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Camping",
+        "item": "Carpas",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/camping/carpas"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Camping",
+        "item": "Sleeping y colchones inflables",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/camping/sleeping-y-colchones-inflables"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Camping",
+        "item": "Neveras y Termos",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/camping/neveras-y-termos"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Camping",
+        "item": "Muebles de Camping",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/camping/muebles-de-camping"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Otros Deportes",
+        "item": "Balones",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/otros-deportes/balones"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Otros Deportes",
+        "item": "Naúticos",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/otros-deportes/nauticos"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Otros Deportes",
+        "item": "Otros deportes",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/otros-deportes/otros-deportes"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Otros Deportes",
+        "item": "Patines y patinetas",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/otros-deportes/patines-y-patinetas"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Otros Deportes",
+        "item": "Tenis y ping pong",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/otros-deportes/tenis-y-ping-pong"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Maletas y morrales",
+        "item": "Maletas de viaje",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/maletas-y-morrales/maletas-de-viaje"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Maletas y morrales",
+        "item": "Morrales",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/maletas-y-morrales/morrales"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Piscinas",
+        "item": "Piscinas Estructurales e Inflables",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/piscinas/piscinas-estructurales-e-inflables"
+    },
+    {
+        "categoria_principal": "Deportes y tiempo libre",
+        "sub_categoria": "Piscinas",
+        "item": "Accesorios y Mantenimiento de Piscinas",
+        "url": "https://www.jumbocolombia.com/deportes-y-tiempo-libre/piscinas/accesorios-y-mantenimiento-de-piscinas"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Gatos",
+        "item": "Alimento Seco",
+        "url": "https://www.jumbocolombia.com/mascotas/gatos/alimento-seco"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Gatos",
+        "item": "Alimento Húmedo",
+        "url": "https://www.jumbocolombia.com/mascotas/gatos/alimento-humedo"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Gatos",
+        "item": "Aseo E Higiene",
+        "url": "https://www.jumbocolombia.com/mascotas/gatos/aseo-e-higiene"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Gatos",
+        "item": "Accesorios",
+        "url": "https://www.jumbocolombia.com/mascotas/gatos/accesorios"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Gatos",
+        "item": "Juguetes",
+        "url": "https://www.jumbocolombia.com/mascotas/gatos/juguetes"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Gatos",
+        "item": "Snacks",
+        "url": "https://www.jumbocolombia.com/mascotas/gatos/snacks"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Perros",
+        "item": "Alimento Seco",
+        "url": "https://www.jumbocolombia.com/mascotas/perros/alimento-seco"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Perros",
+        "item": "Alimento Húmedo",
+        "url": "https://www.jumbocolombia.com/mascotas/perros/alimento-humedo"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Perros",
+        "item": "Accesorios",
+        "url": "https://www.jumbocolombia.com/mascotas/perros/accesorios"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Perros",
+        "item": "Aseo E Higiene",
+        "url": "https://www.jumbocolombia.com/mascotas/perros/aseo-e-higiene"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Perros",
+        "item": "Juguetes",
+        "url": "https://www.jumbocolombia.com/mascotas/perros/juguetes"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Perros",
+        "item": "Snacks",
+        "url": "https://www.jumbocolombia.com/mascotas/perros/snacks"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Otras Mascotas",
+        "item": "Aves",
+        "url": "https://www.jumbocolombia.com/mascotas/otras-mascotas/aves"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Otras Mascotas",
+        "item": "Peces",
+        "url": "https://www.jumbocolombia.com/mascotas/otras-mascotas/peces"
+    },
+    {
+        "categoria_principal": "Mascotas",
+        "sub_categoria": "Otras Mascotas",
+        "item": "Roedores",
+        "url": "https://www.jumbocolombia.com/mascotas/otras-mascotas/roedores"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Carros y muñecos",
+        "item": "Carros de juguete",
+        "url": "https://www.jumbocolombia.com/jugueteria/carros-y-munecos/carros-de-juguete"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Carros y muñecos",
+        "item": "Figuras y personajes",
+        "url": "https://www.jumbocolombia.com/jugueteria/carros-y-munecos/figuras-y-personajes"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Carros y muñecos",
+        "item": "Juegos de imitación",
+        "url": "https://www.jumbocolombia.com/jugueteria/carros-y-munecos/juegos-de-imitacion"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Carros y muñecos",
+        "item": "Juguetes a control remoto",
+        "url": "https://www.jumbocolombia.com/jugueteria/carros-y-munecos/juguetes-a-control-remoto"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Carros y muñecos",
+        "item": "Muñecas y accesorios",
+        "url": "https://www.jumbocolombia.com/jugueteria/carros-y-munecos/munecas-y-accesorios"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Carros y muñecos",
+        "item": "Peluches",
+        "url": "https://www.jumbocolombia.com/jugueteria/carros-y-munecos/peluches"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Carros y muñecos",
+        "item": "Pistas de carros",
+        "url": "https://www.jumbocolombia.com/jugueteria/carros-y-munecos/pistas-de-carros"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Lúdicos",
+        "item": "Bloques y armables",
+        "url": "https://www.jumbocolombia.com/jugueteria/ludicos/bloques-y-armables"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Lúdicos",
+        "item": "Didácticos",
+        "url": "https://www.jumbocolombia.com/jugueteria/ludicos/didacticos"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Lúdicos",
+        "item": "Educativos",
+        "url": "https://www.jumbocolombia.com/jugueteria/ludicos/educativos"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Lúdicos",
+        "item": "Juegos de mesa",
+        "url": "https://www.jumbocolombia.com/jugueteria/ludicos/juegos-de-mesa"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Lúdicos",
+        "item": "Manualidades",
+        "url": "https://www.jumbocolombia.com/jugueteria/ludicos/manualidades"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "Lúdicos",
+        "item": "Musicales",
+        "url": "https://www.jumbocolombia.com/jugueteria/ludicos/musicales"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "De exteriores",
+        "item": "Carros a batería y montables",
+        "url": "https://www.jumbocolombia.com/jugueteria/de-exteriores/carros-a-bateria-y-montables"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "De exteriores",
+        "item": "Casas y juegos para el jardín",
+        "url": "https://www.jumbocolombia.com/jugueteria/de-exteriores/casas-y-juegos-para-el-jardin"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "De exteriores",
+        "item": "Drones de juguete",
+        "url": "https://www.jumbocolombia.com/jugueteria/de-exteriores/drones-de-juguete"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "De exteriores",
+        "item": "Lanzadores y pistolas",
+        "url": "https://www.jumbocolombia.com/jugueteria/de-exteriores/lanzadores-y-pistolas"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "De exteriores",
+        "item": "Patines, patinetas y scooters",
+        "url": "https://www.jumbocolombia.com/jugueteria/de-exteriores/patines-patinetas-y-scooters"
+    },
+    {
+        "categoria_principal": "Juguetería",
+        "sub_categoria": "De exteriores",
+        "item": "Pelotas",
+        "url": "https://www.jumbocolombia.com/jugueteria/de-exteriores/pelotas"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Motor y Mantenimiento",
+        "item": "Aceites y Lubricantes",
+        "url": "https://www.jumbocolombia.com/automovil/motor-y-mantenimiento/aceites-y-lubricantes"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Motor y Mantenimiento",
+        "item": "Aditivos",
+        "url": "https://www.jumbocolombia.com/automovil/motor-y-mantenimiento/aditivos"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Motor y Mantenimiento",
+        "item": "Agua Desmineralizada",
+        "url": "https://www.jumbocolombia.com/automovil/motor-y-mantenimiento/agua-desmineralizada"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Motor y Mantenimiento",
+        "item": "Anticongelantes y Refrigerantes",
+        "url": "https://www.jumbocolombia.com/automovil/motor-y-mantenimiento/anticongelantes-y-refrigerantes"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Baterías",
+        "item": "Baterías",
+        "url": "https://www.jumbocolombia.com/automovil/baterias/baterias"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Baterías",
+        "item": "Cables y Accesorios",
+        "url": "https://www.jumbocolombia.com/automovil/baterias/cables-y-accesorios"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Seguridad autos",
+        "item": "Extintores y accesorios de seguridad",
+        "url": "https://www.jumbocolombia.com/automovil/seguridad-autos/extintores-y-accesorios-de-seguridad"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Seguridad autos",
+        "item": "Maletines y kits de carretera",
+        "url": "https://www.jumbocolombia.com/automovil/seguridad-autos/maletines-y-kits-de-carretera"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Accesorios para auto",
+        "item": "Audio y Video",
+        "url": "https://www.jumbocolombia.com/automovil/accesorios-para-auto/audio-y-video"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Accesorios para auto",
+        "item": "Cubreasientos, cubrevolantes y tapetes",
+        "url": "https://www.jumbocolombia.com/automovil/accesorios-para-auto/cubreasientos-cubrevolantes-y-tapetes"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Accesorios para auto",
+        "item": "Cubreautos",
+        "url": "https://www.jumbocolombia.com/automovil/accesorios-para-auto/cubreautos"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Accesorios para auto",
+        "item": "Plumillas",
+        "url": "https://www.jumbocolombia.com/automovil/accesorios-para-auto/plumillas"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Accesorios para auto",
+        "item": "Soportes y Cargadores",
+        "url": "https://www.jumbocolombia.com/automovil/accesorios-para-auto/soportes-y-cargadores"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Accesorios para auto",
+        "item": "Otros Accesorios para Autos",
+        "url": "https://www.jumbocolombia.com/automovil/accesorios-para-auto/otros-accesorios-para-autos"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Limpieza",
+        "item": "Aspiradoras",
+        "url": "https://www.jumbocolombia.com/automovil/limpieza/aspiradoras"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Limpieza",
+        "item": "Hidrolavadoras",
+        "url": "https://www.jumbocolombia.com/automovil/limpieza/hidrolavadoras"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Limpieza",
+        "item": "Limpieza exterior",
+        "url": "https://www.jumbocolombia.com/automovil/limpieza/limpieza-exterior"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Limpieza",
+        "item": "Limpieza interior",
+        "url": "https://www.jumbocolombia.com/automovil/limpieza/limpieza-interior"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Limpieza",
+        "item": "Llantas",
+        "url": "https://www.jumbocolombia.com/automovil/limpieza/llantas"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Motos y Accesorios",
+        "item": "Motos",
+        "url": "https://www.jumbocolombia.com/automovil/motos-y-accesorios/motos"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Motos y Accesorios",
+        "item": "Baterías, Llantas y Repuestos para Motos",
+        "url": "https://www.jumbocolombia.com/automovil/motos-y-accesorios/baterias-llantas-y-repuestos-para-motos"
+    },
+    {
+        "categoria_principal": "Automóvil",
+        "sub_categoria": "Motos y Accesorios",
+        "item": "Cascos y Accesorios para Motos",
+        "url": "https://www.jumbocolombia.com/automovil/motos-y-accesorios/cascos-y-accesorios-para-motos"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Atornilladores",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/atornilladores"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Fresadoras y accesorios",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/fresadoras-y-accesorios"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Herramientas de banco",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/herramientas-de-banco"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Inalámbricas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/inalambricas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Lijadoras y accesorios",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/lijadoras-y-accesorios"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Multipropósito",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/multiproposito"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Para maderas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/para-maderas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Pistolas de calor",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/pistolas-de-calor"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Polichadoras",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/polichadoras"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Pulidoras y accesorios",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/pulidoras-y-accesorios"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Rotomartillos y demoledores",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/rotomartillos-y-demoledores"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Sierras y accesorios",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/sierras-y-accesorios"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Sopladores",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/sopladores"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Taladros y accesorios",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/taladros-y-accesorios"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Herramientas Neumáticas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/herramientas-neumaticas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Máquina Soldadora y Accesorios",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/maquina-soldadora-y-accesorios"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Eléctricas",
+        "item": "Otras Herramientas Eléctricas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-electricas/otras-herramientas-electricas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Alicates, caimanes y llaves",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/alicates-caimanes-y-llaves"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Cuchillos, tijeras, tenazas y cizallas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/cuchillos-tijeras-tenazas-y-cizallas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Dados, copas y llaves",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/dados-copas-y-llaves"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Destornilladores",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/destornilladores"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Engrapadoras y grapas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/engrapadoras-y-grapas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Flexómetros, reglas y escuadras",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/flexometros-reglas-y-escuadras"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Martillos y mazos",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/martillos-y-mazos"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Prensas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/prensas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Remachadoras",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/remachadoras"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Serruchos, seguetas, formones y escofinas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/serruchos-seguetas-formones-y-escofinas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Sets de herramientas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/sets-de-herramientas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Sierras, limas y cepillos",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/sierras-limas-y-cepillos"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Otras herramientas manuales",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/herramientas-manuales/otras-herramientas-manuales"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Organizadores",
+        "item": "Bancos de trabajo",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/organizadores/bancos-de-trabajo"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Organizadores",
+        "item": "Cajas y maletas de herramientas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/organizadores/cajas-y-maletas-de-herramientas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Organizadores",
+        "item": "Carros portaherramientas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/organizadores/carros-portaherramientas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Organizadores",
+        "item": "Cinturones portaherramientas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/organizadores/cinturones-portaherramientas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Organizadores",
+        "item": "Escaleras",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/organizadores/escaleras"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Organizadores",
+        "item": "Organizadores y gaveteros",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/organizadores/organizadores-y-gaveteros"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Bombillos",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/bombillos"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Linternas y lámparas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/linternas-y-lamparas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Multitomas y reguladores",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/multitomas-y-reguladores"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Pilas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/pilas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Cables y alambres",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/cables-y-alambres"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Accesorios de instalación",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/accesorios-de-instalacion"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Breakers, tableros, cajas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/breakers-tableros-cajas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Timbres y sensores",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/timbres-y-sensores"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Tubos y canaletas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/tubos-y-canaletas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Focos y paneles",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/focos-y-paneles"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Iluminacion y Eléctricos",
+        "item": "Iluminación exterior",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/iluminacion-y-electricos/iluminacion-exterior"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Cerrajería",
+        "item": "Candados",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/cerrajeria/candados"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Cerrajería",
+        "item": "Cajas Fuertes",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/cerrajeria/cajas-fuertes"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Cerrajería",
+        "item": "Cerraduras",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/cerrajeria/cerraduras"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Mejoramiento del Hogar",
+        "item": "Materiales de Construcción",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/mejoramiento-del-hogar/materiales-de-construccion"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Mejoramiento del Hogar",
+        "item": "Puertas y Ventanas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/mejoramiento-del-hogar/puertas-y-ventanas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Mejoramiento del Hogar",
+        "item": "Techos y Cubiertas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/mejoramiento-del-hogar/techos-y-cubiertas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Mejoramiento del Hogar",
+        "item": "Maderas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/mejoramiento-del-hogar/maderas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Mejoramiento del Hogar",
+        "item": "Plomería",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/mejoramiento-del-hogar/plomeria"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Ferretería",
+        "item": "Tornillos y fijaciones",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/ferreteria/tornillos-y-fijaciones"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Ferretería",
+        "item": "Cintas y adhesivos",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/ferreteria/cintas-y-adhesivos"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Ferretería",
+        "item": "Herrajes",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/ferreteria/herrajes"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Ferretería",
+        "item": "Ropa y Accesorios de Seguridad",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/ferreteria/ropa-y-accesorios-de-seguridad"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Grifería para Baño",
+        "item": "Grifería de Lavamanos",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/griferia-para-bano/griferia-de-lavamanos"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Grifería para Baño",
+        "item": "Grifería de Ducha",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/griferia-para-bano/griferia-de-ducha"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Grifería para Baño",
+        "item": "Duchas Eléctricas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/griferia-para-bano/duchas-electricas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Grifería para Baño",
+        "item": "Regaderas y Teleduchas",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/griferia-para-bano/regaderas-y-teleduchas"
+    },
+    {
+        "categoria_principal": "Herramientas y Ferretería",
+        "sub_categoria": "Grifería para Baño",
+        "item": "Accesorios y Repuestos",
+        "url": "https://www.jumbocolombia.com/herramientas-y-ferreteria/griferia-para-bano/accesorios-y-respuestos"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Actualidad",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/actualidad"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Fantasía y Ciencia Ficción",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/fantasia-y-ciencia-ficcion"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Infantil",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/infantil"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Interés General",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/interes-general"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Otros libros",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/otros-libros"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Profesionales y Especializados",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/profesionales-y-especializados"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Revistas y Periódicos",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/revistas-y-periodicos"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Textos Escolares",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/textos-escolares"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Libros",
+        "item": "Thriller y Terror",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/libros/thriller-y-terror"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Accesorios De Oficina Y Estudio",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/accesorios-de-oficina-y-estudio"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Borradores ,Correctores y Tajalápices",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/borradores-correctores-y-tajalapices"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Cintas Adhesivas y Pegantes",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/cintas-adhesivas-y-pegantes"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Compases",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/compases"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Cosedoras y Perforadoras",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/cosedoras-y-perforadoras"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Cuadernos y Agendas",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/cuadernos-y-agendas"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Loncheras y Cartucheras",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/loncheras-y-cartucheras"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Pinturas Escolares y Plastilinas",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/pinturas-escolares-y-plastilinas"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Reglas y Escuadras",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/reglas-y-escuadras"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Tableros, Lienzos y Pizarrones",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/tableros-lienzos-y-pizarrones"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Útiles escolares",
+        "item": "Tijeras",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/utiles-escolares/tijeras"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Escritura",
+        "item": "Bolígrafos",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/escritura/boligrafos"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Escritura",
+        "item": "Colores",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/escritura/colores"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Escritura",
+        "item": "Lápices, Portaminas",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/escritura/lapices-portaminas"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Escritura",
+        "item": "Marcadores, resaltadores y plumones",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/escritura/marcadores-resaltadores-y-plumones"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Archivo y Clasificación",
+        "item": "Calendarios",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/archivo-y-clasificacion/calendarios"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Archivo y Clasificación",
+        "item": "Carpetas",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/archivo-y-clasificacion/carpetas"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Archivo y Clasificación",
+        "item": "Fólderes",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/archivo-y-clasificacion/folderes"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Archivo y Clasificación",
+        "item": "Pastas y Rótulos (Escolar y Oficina)",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/archivo-y-clasificacion/pastas-y-rotulos-escolar-y-oficina-"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Maletines y Morrales",
+        "item": "Canguros",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/maletines-y-morrales/canguros"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Maletines y Morrales",
+        "item": "Morrales con ruedas",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/maletines-y-morrales/morrales-con-ruedas"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Maletines y Morrales",
+        "item": "Morrales sin ruedas",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/maletines-y-morrales/morrales-sin-ruedas"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Papeles, Adhesivos y Blocks",
+        "item": "Blocks",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/papeles-adhesivos-y-blocks/blocks"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Papeles, Adhesivos y Blocks",
+        "item": "Forros",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/papeles-adhesivos-y-blocks/forros"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Papeles, Adhesivos y Blocks",
+        "item": "Notas Adhesivas",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/papeles-adhesivos-y-blocks/notas-adhesivas"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Papeles, Adhesivos y Blocks",
+        "item": "Papeles Finos",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/papeles-adhesivos-y-blocks/papeles-finos"
+    },
+    {
+        "categoria_principal": "Libros y Papelería",
+        "sub_categoria": "Papeles, Adhesivos y Blocks",
+        "item": "Resmas de Papel",
+        "url": "https://www.jumbocolombia.com/libros-y-papeleria/papeles-adhesivos-y-blocks/resmas-de-papel"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Barniz Interior",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/barniz-interior"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Barniz Exterior",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/barniz-exterior"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Lacas",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/lacas"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Masillas",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/masillas"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Base Agua",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/base-agua"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Catalizadores",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/catalizadores"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Inmunizantes",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/inmunizantes"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Acabados de Madera",
+        "item": "Selladores y Tintes",
+        "url": "https://www.jumbocolombia.com/pinturas/acabados-de-madera/selladores-y-tintes"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Adhesivos y Sellantes",
+        "item": "Siliconas",
+        "url": "https://www.jumbocolombia.com/pinturas/adhesivos-y-sellantes/siliconas"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Adhesivos y Sellantes",
+        "item": "Selladores",
+        "url": "https://www.jumbocolombia.com/pinturas/adhesivos-y-sellantes/selladores"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Adhesivos y Sellantes",
+        "item": "Pegantes",
+        "url": "https://www.jumbocolombia.com/pinturas/adhesivos-y-sellantes/pegantes"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Adhesivos y Sellantes",
+        "item": "Cintas de Enmascarar",
+        "url": "https://www.jumbocolombia.com/pinturas/adhesivos-y-sellantes/cinta-de-enmascarar"
+    },
+    {
+        "categoria_principal": "Pinturas",
+        "sub_categoria": "Herramientas para pintar",
+        "item": "Kits de pinturas y otros",
+        "url": "https://www.jumbocolombia.com/pinturas/herramientas-para-pintar/kits-de-pinturas-y-otros"
+    },
+    {
+        "categoria_principal": "Pisos y Paredes",
+        "sub_categoria": "Complementos de Instalación",
+        "item": "Adhesivos",
+        "url": "https://www.jumbocolombia.com/pisos-y-paredes/complementos-de-instalacion/adhesivos"
+    },
+    {
+        "categoria_principal": "Pisos y Paredes",
+        "sub_categoria": "Complementos de Instalación",
+        "item": "Perfiles y Guardaescobas",
+        "url": "https://www.jumbocolombia.com/pisos-y-paredes/complementos-de-instalacion/perfiles-y-guardaescobas"
+    },
+    {
+        "categoria_principal": "Pisos y Paredes",
+        "sub_categoria": "Complementos de Instalación",
+        "item": "Superlon",
+        "url": "https://www.jumbocolombia.com/pisos-y-paredes/complementos-de-instalacion/superlon"
+    },
+    {
+        "categoria_principal": "Pisos y Paredes",
+        "sub_categoria": "Complementos de Instalación",
+        "item": "Wines",
+        "url": "https://www.jumbocolombia.com/pisos-y-paredes/complementos-de-instalacion/wines"
+    },
+    {
+        "categoria_principal": "Baños",
+        "sub_categoria": "Sanitarios y Lavamanos",
+        "item": "Lavamanos",
+        "url": "https://www.jumbocolombia.com/banos/sanitarios-y-lavamanos/lavamanos"
+    },
+    {
+        "categoria_principal": "Baños",
+        "sub_categoria": "Sanitarios y Lavamanos",
+        "item": "Sanitarios y Asientos",
+        "url": "https://www.jumbocolombia.com/banos/sanitarios-y-lavamanos/sanitarios-y-asientos"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Riego",
+        "item": "Accesorios de Riego",
+        "url": "https://www.jumbocolombia.com/jardin/riego/accesorios-de-riego"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Riego",
+        "item": "Mangueras",
+        "url": "https://www.jumbocolombia.com/jardin/riego/mangueras"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Riego",
+        "item": "Pulverizadores",
+        "url": "https://www.jumbocolombia.com/jardin/riego/pulverizadores"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Tierras, Semillas y Fertilizantes",
+        "item": "Fertilizantes",
+        "url": "https://www.jumbocolombia.com/jardin/tierras-semillas-y-fertilizantes/fertilizantes"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Tierras, Semillas y Fertilizantes",
+        "item": "Semillas",
+        "url": "https://www.jumbocolombia.com/jardin/tierras-semillas-y-fertilizantes/semillas"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Tierras, Semillas y Fertilizantes",
+        "item": "Tierras",
+        "url": "https://www.jumbocolombia.com/jardin/tierras-semillas-y-fertilizantes/tierras"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Macetas y Decoración Jardín",
+        "item": "Macetas y Soportes",
+        "url": "https://www.jumbocolombia.com/jardin/macetas-y-decoracion-jardin/macetas-y-soportes"
+    },
+    {
+        "categoria_principal": "Jardín",
+        "sub_categoria": "Herramientas Manuales",
+        "item": "Rastrillos, Picos y Palas",
+        "url": "https://www.jumbocolombia.com/jardin/herramientas-manuales/rastrillos-picos-y-palas"
+    },
+    {
+        "categoria_principal": "Especiales",
+        "sub_categoria": "Halloween",
+        "item": "Decoración",
+        "url": "https://www.jumbocolombia.com/especiales/halloween/decoracion"
+    },
+    {
+        "categoria_principal": "Especiales",
+        "sub_categoria": "Halloween",
+        "item": "Disfraces Adultos",
+        "url": "https://www.jumbocolombia.com/especiales/halloween/disfraces-adultos"
+    },
+    {
+        "categoria_principal": "Especiales",
+        "sub_categoria": "Halloween",
+        "item": "Disfraces Niñas",
+        "url": "https://www.jumbocolombia.com/especiales/halloween/disfraces-ninas"
+    },
+    {
+        "categoria_principal": "Especiales",
+        "sub_categoria": "Halloween",
+        "item": "Disfraces Niños",
+        "url": "https://www.jumbocolombia.com/especiales/halloween/disfraces-ninos"
+    },
+    {
+        "categoria_principal": "Especiales",
+        "sub_categoria": "Navidad",
+        "item": "Árboles de Navidad",
+        "url": "https://www.jumbocolombia.com/especiales/navidad/arboles"
+    },
+    {
+        "categoria_principal": "Especiales",
+        "sub_categoria": "Navidad",
+        "item": "Decoración Navideña",
+        "url": "https://www.jumbocolombia.com/especiales/navidad/decoracion-navidena"
+    },
+    {
+        "categoria_principal": "Especiales",
+        "sub_categoria": "Navidad",
+        "item": "Guirnaldas",
+        "url": "https://www.jumbocolombia.com/especiales/navidad/guirnaldas-navidenas"
+    }
+]
