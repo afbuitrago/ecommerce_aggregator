@@ -1,4 +1,5 @@
 import time
+import logging
 import json
 import os
 from selenium import webdriver
@@ -8,8 +9,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException
 from selenium.webdriver.common.action_chains import ActionChains
 from bs4 import BeautifulSoup
+
+# Importaciones para la gestión automática del driver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service as ChromeService
+
+# --- Configuración de Logging ---
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s - %(levelname)s - %(message)s')
 
 def initialize_driver(user_agent, logger):
     """Configura e inicializa una nueva instancia de WebDriver con webdriver-manager."""
@@ -92,7 +99,8 @@ def scrape_jumbo(user_agent, logger):
     output_dir = os.path.join("raw_data", "jumbo")
     os.makedirs(output_dir, exist_ok=True)
     links_filepath = os.path.join(output_dir, "jumbo_links.json")
-    products_filepath = os.path.join(output_dir, "jumbo_products.json")
+    # ** Cambio de Nombre de Archivo **
+    products_filepath = os.path.join(output_dir, "productos_jumbo.json")
     
     links_to_visit = []
     # --- FASE 1: RECOLECCIÓN DE ENLACES ---
