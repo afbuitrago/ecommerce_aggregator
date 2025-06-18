@@ -1,0 +1,4 @@
+2025-06-16 19:38:46,036 - carulla - INFO - --- INICIANDO PROCESO DE SCRAPING PARA CARULLA ---
+2025-06-16 19:38:46,037 - carulla - INFO - Archivo de productos anterior 'raw_data/carulla/productos_carulla.json' eliminado.
+2025-06-16 19:38:46,037 - carulla - INFO - --- INICIANDO FASE 1: Recolección de enlaces ---
+2025-06-16 19:38:46,037 - carulla - INFO - Configurando driver con User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36

@@ -1,0 +1,4 @@
+2025-06-17 22:34:14,821 - Orchestrator - INFO - Ejecución solicitada para una sola tienda: zapatoca
+2025-06-17 22:34:14,826 - Orchestrator - INFO - Iniciando scraper para la tienda: zapatoca
+2025-06-18 00:02:10,390 - Orchestrator - INFO - Scraper para zapatoca finalizado con éxito.
+2025-06-18 00:02:10,391 - Orchestrator - INFO - Tiempo de ejecución para zapatoca: 5275.56 segundos.

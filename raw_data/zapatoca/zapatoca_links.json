@@ -1,0 +1,3516 @@
+{
+    "ABARROTES": {
+        "ACEITES": [
+            {
+                "tipo_producto": "CANOLA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aceites/canola/"
+            },
+            {
+                "tipo_producto": "COCO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aceites/coco/"
+            },
+            {
+                "tipo_producto": "GIRASOL",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aceites/girasol/"
+            },
+            {
+                "tipo_producto": "OLIVA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aceites/oliva/"
+            },
+            {
+                "tipo_producto": "SOYA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aceites/soya/"
+            },
+            {
+                "tipo_producto": "VEGETAL",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aceites/vegetal/"
+            }
+        ],
+        "ADEREZOS": [
+            {
+                "tipo_producto": "SALSA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aderezos/salsa/"
+            },
+            {
+                "tipo_producto": "SALSA SAZONADORA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aderezos/salsa-sazonadora/"
+            },
+            {
+                "tipo_producto": "VINAGRES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/aderezos/vinagres/"
+            }
+        ],
+        "ARROZ": [
+            {
+                "tipo_producto": "ESPECIALIZADOS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/arroz/especializados/"
+            },
+            {
+                "tipo_producto": "NORMAL",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/arroz/normal/"
+            },
+            {
+                "tipo_producto": "SOPA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/arroz/sopa/"
+            }
+        ],
+        "AVENAS": [
+            {
+                "tipo_producto": "HOJUELAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/avenas/hojuelas/"
+            }
+        ],
+        "CALDOS": [
+            {
+                "tipo_producto": "COSTILLA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/caldos/costilla/"
+            },
+            {
+                "tipo_producto": "GALLINA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/caldos/gallina/"
+            }
+        ],
+        "CONDIMENTOS": [
+            {
+                "tipo_producto": "PASTAS EN FRASCO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/condimentos/pastas-en-frasco/"
+            },
+            {
+                "tipo_producto": "SAZONADORES CHAPETAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/condimentos/sazonadores-chapetas/"
+            },
+            {
+                "tipo_producto": "SAZONADORES ESPECIALES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/condimentos/sazonadores-especiales/"
+            },
+            {
+                "tipo_producto": "SAZONADORES FRASCOS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/condimentos/sazonadores-frascos/"
+            }
+        ],
+        "CULINARIO": [
+            {
+                "tipo_producto": "BASES CARNE",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/culinario/bases-carne/"
+            },
+            {
+                "tipo_producto": "BASES PASTA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/culinario/bases-pasta/"
+            },
+            {
+                "tipo_producto": "CARVE",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/culinario/carve/"
+            },
+            {
+                "tipo_producto": "RAMEN",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/culinario/ramen/"
+            },
+            {
+                "tipo_producto": "SOPAS Y CREMAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/culinario/sopas-y-cremas/"
+            }
+        ],
+        "ENCURTIDOS": [
+            {
+                "tipo_producto": "ACEITUNAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/aceitunas/"
+            },
+            {
+                "tipo_producto": "ALCAPARRAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/alcaparras/"
+            },
+            {
+                "tipo_producto": "CEBOLLITAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/cebollitas/"
+            },
+            {
+                "tipo_producto": "CEREZAS ALMIBAR",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/cerezas-almibar/"
+            },
+            {
+                "tipo_producto": "CHAMPIÑONES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/champinones/"
+            },
+            {
+                "tipo_producto": "ESPARRAGOS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/esparragos/"
+            },
+            {
+                "tipo_producto": "PALMITOS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/palmitos/"
+            },
+            {
+                "tipo_producto": "PEPINILLOS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/encurtidos/pepinillos/"
+            }
+        ],
+        "ENLATADOS": [
+            {
+                "tipo_producto": "ATUNES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/enlatados/atunes/"
+            },
+            {
+                "tipo_producto": "CARNICOS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/enlatados/carnicos/"
+            },
+            {
+                "tipo_producto": "ENLATADOS ESPECIALES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/enlatados/enlatados-especiales/"
+            },
+            {
+                "tipo_producto": "SARDINAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/enlatados/sardinas/"
+            },
+            {
+                "tipo_producto": "VEGETALES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/enlatados/vegetales/"
+            }
+        ],
+        "GRANOS": [
+            {
+                "tipo_producto": "ARVEJA SECA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/arveja-seca/"
+            },
+            {
+                "tipo_producto": "CEBADA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/cebada/"
+            },
+            {
+                "tipo_producto": "FRIJOL",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/frijol/"
+            },
+            {
+                "tipo_producto": "GARBANZO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/garbanzo/"
+            },
+            {
+                "tipo_producto": "HABAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/habas/"
+            },
+            {
+                "tipo_producto": "LENTEJA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/lenteja/"
+            },
+            {
+                "tipo_producto": "MAIZ PETO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/maiz-peto/"
+            },
+            {
+                "tipo_producto": "MAIZ PIRA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/maiz-pira/"
+            },
+            {
+                "tipo_producto": "MAIZ PORVA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/maiz-porva/"
+            },
+            {
+                "tipo_producto": "MANI",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/mani/"
+            },
+            {
+                "tipo_producto": "QUINUA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/quinua/"
+            },
+            {
+                "tipo_producto": "TRIGO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/granos/trigo/"
+            }
+        ],
+        "MARGARINAS": [
+            {
+                "tipo_producto": "CULINARIA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/margarinas/culinaria/"
+            },
+            {
+                "tipo_producto": "ESPARCIBLE",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/margarinas/esparcible/"
+            },
+            {
+                "tipo_producto": "MANTECA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/margarinas/manteca/"
+            }
+        ],
+        "PASTAS": [
+            {
+                "tipo_producto": "CLASICAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/pastas/clasicas/"
+            },
+            {
+                "tipo_producto": "INTEGRALES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/pastas/integrales/"
+            },
+            {
+                "tipo_producto": "LASAGNA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/pastas/lasagna/"
+            },
+            {
+                "tipo_producto": "PASTAS ESPECIALES",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/pastas/pastas-especiales/"
+            },
+            {
+                "tipo_producto": "PASTAS LARGAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/pastas/pastas-largas/"
+            },
+            {
+                "tipo_producto": "RAVIOLI",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/pastas/ravioli/"
+            },
+            {
+                "tipo_producto": "SIN GLUTEN",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/pastas/sin-gluten/"
+            }
+        ],
+        "SAL": [
+            {
+                "tipo_producto": "MEZCLA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/sal/mezcla/"
+            },
+            {
+                "tipo_producto": "ROSADA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/sal/rosada/"
+            },
+            {
+                "tipo_producto": "SAL LIGHT",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/sal/sal-light/"
+            },
+            {
+                "tipo_producto": "SAL MARINA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/sal/sal-marina/"
+            },
+            {
+                "tipo_producto": "SAL TRADICIONAL",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/sal/sal-tradicional/"
+            }
+        ],
+        "SALSAS": [
+            {
+                "tipo_producto": "AJI",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/aji/"
+            },
+            {
+                "tipo_producto": "AJO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/ajo/"
+            },
+            {
+                "tipo_producto": "BBQ",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/bbq/"
+            },
+            {
+                "tipo_producto": "CARNE",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/carne/"
+            },
+            {
+                "tipo_producto": "CHINA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/china/"
+            },
+            {
+                "tipo_producto": "FRUTAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/frutas/"
+            },
+            {
+                "tipo_producto": "INGLESA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/inglesa/"
+            },
+            {
+                "tipo_producto": "LEÑA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/lena/"
+            },
+            {
+                "tipo_producto": "MAIZ",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/maiz/"
+            },
+            {
+                "tipo_producto": "MAYONESA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/mayonesa/"
+            },
+            {
+                "tipo_producto": "MOSTAZA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/mostaza/"
+            },
+            {
+                "tipo_producto": "NEGRA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/negra/"
+            },
+            {
+                "tipo_producto": "PASTA DE TOMATE",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/pasta-de-tomate/"
+            },
+            {
+                "tipo_producto": "QUESO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/queso/"
+            },
+            {
+                "tipo_producto": "ROSADA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/rosada/"
+            },
+            {
+                "tipo_producto": "SOYA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/soya/"
+            },
+            {
+                "tipo_producto": "TARTARA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/tartara/"
+            },
+            {
+                "tipo_producto": "TERIYAKI",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/teriyaki/"
+            },
+            {
+                "tipo_producto": "TOMATE",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/salsas/tomate/"
+            }
+        ],
+        "VINAGRE": [
+            {
+                "tipo_producto": "VINAGRE BLANCO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/vinagre/vinagre-blanco/"
+            },
+            {
+                "tipo_producto": "VINAGRE FRUTAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/vinagre/vinagre-frutas/"
+            },
+            {
+                "tipo_producto": "VINAGRE MANZANA",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/vinagre/vinagre-manzana/"
+            },
+            {
+                "tipo_producto": "VINAGRETAS",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/vinagre/vinagretas/"
+            }
+        ],
+        "ZUMO": [
+            {
+                "tipo_producto": "ZUMO",
+                "link": "https://www.mercadozapatoca.com/c/abarrotes/zumo/zumo/"
+            }
+        ]
+    },
+    "ACCESORIOS BAÑOS": {
+        "CORTINAS": [
+            {
+                "tipo_producto": "CORTINAS",
+                "link": "https://www.mercadozapatoca.com/c/accesorios-banos/cortinas/"
+            }
+        ],
+        "DUCHAS": [
+            {
+                "tipo_producto": "DUCHAS",
+                "link": "https://www.mercadozapatoca.com/c/accesorios-banos/duchas/"
+            }
+        ],
+        "ESTROPAJOS": [
+            {
+                "tipo_producto": "ESTROPAJOS",
+                "link": "https://www.mercadozapatoca.com/c/accesorios-banos/estropajos/"
+            }
+        ],
+        "GORROS DE BAÑO": [
+            {
+                "tipo_producto": "GORROS DE BAÑO",
+                "link": "https://www.mercadozapatoca.com/c/accesorios-banos/gorros-de-bano/"
+            }
+        ],
+        "JABONERAS": [
+            {
+                "tipo_producto": "JABONERAS",
+                "link": "https://www.mercadozapatoca.com/c/accesorios-banos/jaboneras/"
+            }
+        ],
+        "ORGANIZADORES DE BAÑO": [
+            {
+                "tipo_producto": "PLASTICO",
+                "link": "https://www.mercadozapatoca.com/c/accesorios-banos/organizadores-de-bano/plastico/"
+            }
+        ],
+        "TAPETES": [
+            {
+                "tipo_producto": "PLASTICO",
+                "link": "https://www.mercadozapatoca.com/c/accesorios-banos/tapetes/plastico/"
+            }
+        ]
+    },
+    "ASEO HOGAR": {
+        "AMBIENTADORES": [
+            {
+                "tipo_producto": "AEROSOLES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/aerosoles/"
+            },
+            {
+                "tipo_producto": "AMB ACEITE",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/amb-aceite/"
+            },
+            {
+                "tipo_producto": "AMB GEL",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/amb-gel/"
+            },
+            {
+                "tipo_producto": "AMB LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/amb-liquido/"
+            },
+            {
+                "tipo_producto": "AUTO SPORT",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/auto-sport/"
+            },
+            {
+                "tipo_producto": "AUTOMATICO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/automatico/"
+            },
+            {
+                "tipo_producto": "ELIMINADORES OLOR",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/eliminadores-olor/"
+            },
+            {
+                "tipo_producto": "VARITAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/varitas/"
+            },
+            {
+                "tipo_producto": "VELA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ambientadores/vela/"
+            }
+        ],
+        "BETUNES": [
+            {
+                "tipo_producto": "BETUN CREMA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/betunes/betun-crema/"
+            },
+            {
+                "tipo_producto": "BETUN LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/betunes/betun-liquido/"
+            },
+            {
+                "tipo_producto": "BETUN PASTA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/betunes/betun-pasta/"
+            },
+            {
+                "tipo_producto": "CEPILLOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/betunes/cepillos/"
+            }
+        ],
+        "BLANQUEADORES": [
+            {
+                "tipo_producto": "MULTIUSOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/blanqueadores/multiusos/"
+            }
+        ],
+        "BOMBILLOS": [
+            {
+                "tipo_producto": "BOMBILLOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/bombillos/bombillos/"
+            }
+        ],
+        "CERAS": [
+            {
+                "tipo_producto": "AUTOBRILLANTE",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/autobrillante/"
+            },
+            {
+                "tipo_producto": "BLANCA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/blanca/"
+            },
+            {
+                "tipo_producto": "EMULSIONADA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/emulsionada/"
+            },
+            {
+                "tipo_producto": "ESCARLATA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/escarlata/"
+            },
+            {
+                "tipo_producto": "LIMPIADORES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/limpiadores/"
+            },
+            {
+                "tipo_producto": "NEUTRA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/neutra/"
+            },
+            {
+                "tipo_producto": "PISOS LAMINADOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/pisos-laminados/"
+            },
+            {
+                "tipo_producto": "REMOVEDOR",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/ceras/removedor/"
+            }
+        ],
+        "CUIDADO VEHICULAR": [
+            {
+                "tipo_producto": "SHAMPOO VEHICULO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/cuidado-vehicular/shampoo-vehiculo/"
+            }
+        ],
+        "DESINFECTANTES": [
+            {
+                "tipo_producto": "ALIMENTOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desinfectantes/alimentos/"
+            },
+            {
+                "tipo_producto": "BAÑOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desinfectantes/banos/"
+            },
+            {
+                "tipo_producto": "LIMPIADOR SUPERFIC Y PISO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desinfectantes/limpiador-superfic-y-piso/"
+            },
+            {
+                "tipo_producto": "TOALLAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desinfectantes/toallas/"
+            }
+        ],
+        "DESMANCHADORES": [
+            {
+                "tipo_producto": "DESM ROPA BLANCA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desmanchadores/desm-ropa-blanca/"
+            },
+            {
+                "tipo_producto": "DESM ROPA COLOR",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desmanchadores/desm-ropa-color/"
+            },
+            {
+                "tipo_producto": "POTENCIADORES POLVO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desmanchadores/potenciadores-polvo/"
+            },
+            {
+                "tipo_producto": "PRELAVADOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desmanchadores/prelavados/"
+            },
+            {
+                "tipo_producto": "PREPLANCHADO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/desmanchadores/preplanchado/"
+            }
+        ],
+        "DETERGENTES": [
+            {
+                "tipo_producto": "DET LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/detergentes/det-liquido/"
+            },
+            {
+                "tipo_producto": "DET POLVO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/detergentes/det-polvo/"
+            },
+            {
+                "tipo_producto": "JAB BARRA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/detergentes/jab-barra/"
+            }
+        ],
+        "FOSFOROS Y ENCENDEDORES": [
+            {
+                "tipo_producto": "ENCENDEDORES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/fosforos-y-encendedores/encendedores/"
+            },
+            {
+                "tipo_producto": "FOSFOROS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/fosforos-y-encendedores/fosforos/"
+            }
+        ],
+        "LAVALOZAS": [
+            {
+                "tipo_producto": "LAVALOZA BARRA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/lavalozas/lavaloza-barra/"
+            },
+            {
+                "tipo_producto": "LAVALOZA CREMA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/lavalozas/lavaloza-crema/"
+            },
+            {
+                "tipo_producto": "LAVALOZA LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/lavalozas/lavaloza-liquido/"
+            }
+        ],
+        "LIMPIAVIDRIOS": [
+            {
+                "tipo_producto": "DOYPACK",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/limpiavidrios/doypack/"
+            },
+            {
+                "tipo_producto": "GATILLO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/limpiavidrios/gatillo/"
+            }
+        ],
+        "LUSTRAMUEBLES": [
+            {
+                "tipo_producto": "LUSTRAMUEBLES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/lustramuebles/"
+            }
+        ],
+        "PAÑOS Y ESPONJILLAS": [
+            {
+                "tipo_producto": "DOBLE USO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/panos-y-esponjillas/doble-uso/"
+            },
+            {
+                "tipo_producto": "ESPONJILLAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/panos-y-esponjillas/esponjillas/"
+            },
+            {
+                "tipo_producto": "FIBRA ABRASIVA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/panos-y-esponjillas/fibra-abrasiva/"
+            },
+            {
+                "tipo_producto": "PAÑOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/panos-y-esponjillas/panos/"
+            },
+            {
+                "tipo_producto": "ROLLO QUITA PELUSA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/panos-y-esponjillas/rollo-quita-pelusa/"
+            }
+        ],
+        "PLAGUICIDAS": [
+            {
+                "tipo_producto": "CREOLINA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/plaguicidas/creolina/"
+            },
+            {
+                "tipo_producto": "PLAG AEROSOL",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/plaguicidas/plag-aerosol/"
+            },
+            {
+                "tipo_producto": "PLAG LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/plaguicidas/plag-liquido/"
+            },
+            {
+                "tipo_producto": "PLAG PASTILLAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/plaguicidas/plag-pastillas/"
+            }
+        ],
+        "QUIMICOS": [
+            {
+                "tipo_producto": "VARSOLES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/quimicos/varsoles/"
+            }
+        ],
+        "QUITAGRASA Y OTROS": [
+            {
+                "tipo_producto": "LIMPIA HORNOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/quitagrasa-y-otros/limpia-hornos/"
+            },
+            {
+                "tipo_producto": "QUITAGRASA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/quitagrasa-y-otros/quitagrasa/"
+            }
+        ],
+        "SHAMPOO ALFOMBRAS": [
+            {
+                "tipo_producto": "SHAMPOO ALFOMBRAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/shampoo-alfombras/"
+            }
+        ],
+        "SUAVIZANTES": [
+            {
+                "tipo_producto": "SUAVIZANTES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/suavizantes/suavizantes/"
+            },
+            {
+                "tipo_producto": "SUAVIZANTES.",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/suavizantes/suavizantes./"
+            }
+        ],
+        "VELAS": [
+            {
+                "tipo_producto": "PEBETEROS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/velas/pebeteros/"
+            },
+            {
+                "tipo_producto": "VELA LISA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/velas/vela-lisa/"
+            },
+            {
+                "tipo_producto": "VELA ORGANICA",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/velas/vela-organica/"
+            },
+            {
+                "tipo_producto": "VELAS ACANALADAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/velas/velas-acanaladas/"
+            },
+            {
+                "tipo_producto": "VELONES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-hogar/velas/velones/"
+            }
+        ]
+    },
+    "ASEO PERSONAL": {
+        "CUIDADO CAPILAR": [
+            {
+                "tipo_producto": "ACCESORIOS CABELLO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-capilar/accesorios-cabello/"
+            },
+            {
+                "tipo_producto": "ACONDICIONADOR",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-capilar/acondicionador/"
+            },
+            {
+                "tipo_producto": "CERA CAPILAR",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-capilar/cera-capilar/"
+            },
+            {
+                "tipo_producto": "GELES CAPILARES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-capilar/geles-capilares/"
+            },
+            {
+                "tipo_producto": "SHAMPOO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-capilar/shampoo/"
+            },
+            {
+                "tipo_producto": "TINTURAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-capilar/tinturas/"
+            },
+            {
+                "tipo_producto": "TRATAMIENTOS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-capilar/tratamientos/"
+            }
+        ],
+        "CUIDADO DE LA PIEL": [
+            {
+                "tipo_producto": "BLOQUEADOR",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-de-la-piel/bloqueador/"
+            },
+            {
+                "tipo_producto": "BRONCEADORES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-de-la-piel/bronceadores/"
+            },
+            {
+                "tipo_producto": "CORPORAL",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-de-la-piel/corporal/"
+            },
+            {
+                "tipo_producto": "FACIAL",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-de-la-piel/facial/"
+            },
+            {
+                "tipo_producto": "REPELENTES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/cuidado-de-la-piel/repelentes/"
+            }
+        ],
+        "DEPILACION": [
+            {
+                "tipo_producto": "DEPILACION HOMBRE",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/depilacion/depilacion-hombre/"
+            },
+            {
+                "tipo_producto": "DEPILACION MUJER",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/depilacion/depilacion-mujer/"
+            }
+        ],
+        "DESODORANTE": [
+            {
+                "tipo_producto": "DESODORANTE HOMBRE",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/desodorante/desodorante-hombre/"
+            },
+            {
+                "tipo_producto": "DESODORANTE MUJER",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/desodorante/desodorante-mujer/"
+            }
+        ],
+        "HIGIENE ORAL": [
+            {
+                "tipo_producto": "CEPILLOS DENTALES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/higiene-oral/cepillos-dentales/"
+            },
+            {
+                "tipo_producto": "CREMAS DENTALES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/higiene-oral/cremas-dentales/"
+            },
+            {
+                "tipo_producto": "ENJUAGUES BUCALES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/higiene-oral/enjuagues-bucales/"
+            },
+            {
+                "tipo_producto": "KITS DENTALES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/higiene-oral/kits-dentales/"
+            },
+            {
+                "tipo_producto": "SEDAS DENTALES",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/higiene-oral/sedas-dentales/"
+            }
+        ],
+        "JABONES Y GELES": [
+            {
+                "tipo_producto": "BARRAS",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/jabones-y-geles/barras/"
+            },
+            {
+                "tipo_producto": "JABON LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/jabones-y-geles/jabon-liquido/"
+            },
+            {
+                "tipo_producto": "JABON LIQUIDO CORPORAL",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/jabones-y-geles/jabon-liquido-corporal/"
+            },
+            {
+                "tipo_producto": "JABON Y GEL LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/jabones-y-geles/jabon-y-gel-liquido/"
+            }
+        ],
+        "TALCOS": [
+            {
+                "tipo_producto": "POLVO",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/talcos/polvo/"
+            },
+            {
+                "tipo_producto": "SPRAY",
+                "link": "https://www.mercadozapatoca.com/c/aseo-personal/talcos/spray/"
+            }
+        ]
+    },
+    "CARNES FRESCAS": {
+        "AUTOSERVICIO": [
+            {
+                "tipo_producto": "BOVINOS AUTOSERVICIO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/autoservicio/bovinos-autoservicio/"
+            }
+        ],
+        "BOVINO": [
+            {
+                "tipo_producto": "RES CORRIENTE",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/bovino/res-corriente/"
+            },
+            {
+                "tipo_producto": "RES CORRIENTE MAYORISTA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/bovino/res-corriente-mayorista/"
+            },
+            {
+                "tipo_producto": "RES FINO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/bovino/res-fino/"
+            }
+        ],
+        "PESCADO FRESCO": [
+            {
+                "tipo_producto": "CULTIVO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/pescado-fresco/cultivo/"
+            },
+            {
+                "tipo_producto": "FILETE",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/pescado-fresco/filete/"
+            },
+            {
+                "tipo_producto": "RIO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/pescado-fresco/rio/"
+            }
+        ],
+        "POLLO": [
+            {
+                "tipo_producto": "AMARILLO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/pollo/amarillo/"
+            },
+            {
+                "tipo_producto": "BLANCO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/pollo/blanco/"
+            },
+            {
+                "tipo_producto": "VISCERA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/pollo/viscera/"
+            }
+        ],
+        "PORCINO": [
+            {
+                "tipo_producto": "BONDIOLA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/bondiola/"
+            },
+            {
+                "tipo_producto": "CHULETA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/chuleta/"
+            },
+            {
+                "tipo_producto": "CODITOS",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/coditos/"
+            },
+            {
+                "tipo_producto": "COLITA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/colita/"
+            },
+            {
+                "tipo_producto": "COSTILLA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/costilla/"
+            },
+            {
+                "tipo_producto": "ESPINAZO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/espinazo/"
+            },
+            {
+                "tipo_producto": "LOMO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/lomo/"
+            },
+            {
+                "tipo_producto": "OREJAS",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/orejas/"
+            },
+            {
+                "tipo_producto": "PEZUÑAS",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/pezunas/"
+            },
+            {
+                "tipo_producto": "PIERNA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/pierna/"
+            },
+            {
+                "tipo_producto": "SOLOMITO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/solomito/"
+            },
+            {
+                "tipo_producto": "TOCINO BARRIGA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/tocino-barriga/"
+            },
+            {
+                "tipo_producto": "TOCINO DORSAL",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/tocino-dorsal/"
+            },
+            {
+                "tipo_producto": "TOCINO PAPADA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/tocino-papada/"
+            },
+            {
+                "tipo_producto": "TOCINO TOCINETA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/porcino/tocino-tocineta/"
+            }
+        ],
+        "TERNERA": [
+            {
+                "tipo_producto": "TERNERA.",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/ternera/ternera./"
+            }
+        ],
+        "VISCERA RES": [
+            {
+                "tipo_producto": "BOFE",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/bofe/"
+            },
+            {
+                "tipo_producto": "CALLO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/callo/"
+            },
+            {
+                "tipo_producto": "CARNE ESPINA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/carne-espina/"
+            },
+            {
+                "tipo_producto": "CHUNCHULLO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/chunchullo/"
+            },
+            {
+                "tipo_producto": "CORAZON",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/corazon/"
+            },
+            {
+                "tipo_producto": "CRIADILLAS",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/criadillas/"
+            },
+            {
+                "tipo_producto": "HIGADO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/higado/"
+            },
+            {
+                "tipo_producto": "LENGUA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/lengua/"
+            },
+            {
+                "tipo_producto": "LOMO VISCERA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/lomo-viscera/"
+            },
+            {
+                "tipo_producto": "MANO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/mano/"
+            },
+            {
+                "tipo_producto": "PAJARILLA",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/pajarilla/"
+            },
+            {
+                "tipo_producto": "REVUELTO",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/revuelto/"
+            },
+            {
+                "tipo_producto": "RIÑON",
+                "link": "https://www.mercadozapatoca.com/c/carnes-frescas/viscera-res/rinon/"
+            }
+        ]
+    },
+    "DESECHABLES Y": {
+        "DESECHABLES": [
+            {
+                "tipo_producto": "SERVILLETAS",
+                "link": "https://www.mercadozapatoca.com/c/desechables-y/desechables/servilletas/"
+            }
+        ]
+    },
+    "DESAYUNO": {
+        "AVENAS": [
+            {
+                "tipo_producto": "HOJUELAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/avenas/hojuelas/"
+            },
+            {
+                "tipo_producto": "INSTANTANEAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/avenas/instantaneas/"
+            },
+            {
+                "tipo_producto": "MOLIDAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/avenas/molidas/"
+            }
+        ],
+        "BEBES": [
+            {
+                "tipo_producto": "CEREAL BEBE",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/bebes/cereal-bebe/"
+            },
+            {
+                "tipo_producto": "COLADAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/bebes/coladas/"
+            },
+            {
+                "tipo_producto": "COMPOTAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/bebes/compotas/"
+            },
+            {
+                "tipo_producto": "FECULA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/bebes/fecula/"
+            }
+        ],
+        "CAFE": [
+            {
+                "tipo_producto": "CAPSULAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/capsulas/"
+            },
+            {
+                "tipo_producto": "CREMA PARA CAFE",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/crema-para-cafe/"
+            },
+            {
+                "tipo_producto": "DESCAFEINADOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/descafeinados/"
+            },
+            {
+                "tipo_producto": "FILTROS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/filtros/"
+            },
+            {
+                "tipo_producto": "GRANO",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/grano/"
+            },
+            {
+                "tipo_producto": "GRANULADOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/granulados/"
+            },
+            {
+                "tipo_producto": "INSTANTANEOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/instantaneos/"
+            },
+            {
+                "tipo_producto": "MIX INSTANTANEOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/mix-instantaneos/"
+            },
+            {
+                "tipo_producto": "TOSTADOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cafe/tostados/"
+            }
+        ],
+        "CEREALES": [
+            {
+                "tipo_producto": "ADULTOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cereales/adultos/"
+            },
+            {
+                "tipo_producto": "CEREALES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cereales/cereales/"
+            },
+            {
+                "tipo_producto": "GRANOLAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cereales/granolas/"
+            },
+            {
+                "tipo_producto": "GRANOS SALUDABLES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cereales/granos-saludables/"
+            },
+            {
+                "tipo_producto": "NIÑOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/cereales/ninos/"
+            }
+        ],
+        "CHOCOLATE": [
+            {
+                "tipo_producto": "CHOCOLATE LIGHT",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/chocolate/chocolate-light/"
+            },
+            {
+                "tipo_producto": "CHOCULA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/chocolate/chocula/"
+            },
+            {
+                "tipo_producto": "PASTILLA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/chocolate/pastilla/"
+            },
+            {
+                "tipo_producto": "POLVO",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/chocolate/polvo/"
+            }
+        ],
+        "ENDULZANTES NATURALES": [
+            {
+                "tipo_producto": "AZUCAR",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/endulzantes-naturales/azucar/"
+            },
+            {
+                "tipo_producto": "MIEL",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/endulzantes-naturales/miel/"
+            },
+            {
+                "tipo_producto": "PANELA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/endulzantes-naturales/panela/"
+            }
+        ],
+        "HARINAS": [
+            {
+                "tipo_producto": "HARINAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/harinas/harinas/"
+            },
+            {
+                "tipo_producto": "HARINAS DE TRIGO",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/harinas/harinas-de-trigo/"
+            },
+            {
+                "tipo_producto": "HARINAS ESPECIALES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/harinas/harinas-especiales/"
+            }
+        ],
+        "HUEVOS": [
+            {
+                "tipo_producto": "GALLINA CUBETA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/huevos/gallina-cubeta/"
+            },
+            {
+                "tipo_producto": "GALLINA EMPACADO",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/huevos/gallina-empacado/"
+            }
+        ],
+        "INFUSIONES": [
+            {
+                "tipo_producto": "AROMATICAS INFUSION",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/infusiones/aromaticas-infusion/"
+            },
+            {
+                "tipo_producto": "FUNCIONALES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/infusiones/funcionales/"
+            },
+            {
+                "tipo_producto": "HIERBAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/infusiones/hierbas/"
+            },
+            {
+                "tipo_producto": "LIQUIDA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/infusiones/liquida/"
+            },
+            {
+                "tipo_producto": "PANELA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/infusiones/panela/"
+            },
+            {
+                "tipo_producto": "TE",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/infusiones/te/"
+            }
+        ],
+        "LECHE EN POLVO": [
+            {
+                "tipo_producto": "ALM LACTEO",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-en-polvo/alm-lacteo/"
+            },
+            {
+                "tipo_producto": "LECHE ANIMAL",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-en-polvo/leche-animal/"
+            },
+            {
+                "tipo_producto": "LECHE VEGETAL",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-en-polvo/leche-vegetal/"
+            },
+            {
+                "tipo_producto": "PROTEINA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-en-polvo/proteina/"
+            }
+        ],
+        "LECHE LIQUIDA": [
+            {
+                "tipo_producto": "DELACTOSADA DESCREMADA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-liquida/delactosada-descremada/"
+            },
+            {
+                "tipo_producto": "DESCREMADA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-liquida/descremada/"
+            },
+            {
+                "tipo_producto": "DESLACTOSADA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-liquida/deslactosada/"
+            },
+            {
+                "tipo_producto": "ENTERA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-liquida/entera/"
+            },
+            {
+                "tipo_producto": "LECHES VEGETALES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-liquida/leches-vegetales/"
+            },
+            {
+                "tipo_producto": "SABORIZADAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-liquida/saborizadas/"
+            },
+            {
+                "tipo_producto": "SEMIDESCREMADA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/leche-liquida/semidescremada/"
+            }
+        ],
+        "MODIFICADORES DE LECHE": [
+            {
+                "tipo_producto": "MODIFICADORES DE LECHE",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/modificadores-de-leche/"
+            }
+        ],
+        "MULTIVITAMINICOS": [
+            {
+                "tipo_producto": "MULTIVITAMINICOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/multivitaminicos/"
+            }
+        ],
+        "PAN Y PONQUE": [
+            {
+                "tipo_producto": "BROWNIES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/brownies/"
+            },
+            {
+                "tipo_producto": "CALADOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/calados/"
+            },
+            {
+                "tipo_producto": "EMBUTIDOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/embutidos/"
+            },
+            {
+                "tipo_producto": "MIGA DE PAN",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/miga-de-pan/"
+            },
+            {
+                "tipo_producto": "MOGOLLA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/mogolla/"
+            },
+            {
+                "tipo_producto": "PANECILLOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/panecillos/"
+            },
+            {
+                "tipo_producto": "PANES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/panes/"
+            },
+            {
+                "tipo_producto": "PONQUES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/ponques/"
+            },
+            {
+                "tipo_producto": "TORTILLAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/tortillas/"
+            },
+            {
+                "tipo_producto": "TOSTADAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/pan-y-ponque/tostadas/"
+            }
+        ],
+        "REPOSTERIA": [
+            {
+                "tipo_producto": "BUÑUELOS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/bunuelos/"
+            },
+            {
+                "tipo_producto": "CREMA CHANTILLY",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/crema-chantilly/"
+            },
+            {
+                "tipo_producto": "CREMA DE LECHE",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/crema-de-leche/"
+            },
+            {
+                "tipo_producto": "CREMA Y LECHE DE COCO",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/crema-y-leche-de-coco/"
+            },
+            {
+                "tipo_producto": "ESENCIAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/esencias/"
+            },
+            {
+                "tipo_producto": "FRUTAS ALMIBAR",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/frutas-almibar/"
+            },
+            {
+                "tipo_producto": "LECHE CONDENSADA",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/leche-condensada/"
+            },
+            {
+                "tipo_producto": "MIEL MAPLES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/miel-maples/"
+            },
+            {
+                "tipo_producto": "NATILLAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/natillas/"
+            },
+            {
+                "tipo_producto": "PANCAKES",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/pancakes/"
+            },
+            {
+                "tipo_producto": "POLVO PARA HORNEAR",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/polvo-para-hornear/"
+            },
+            {
+                "tipo_producto": "POSTRES.",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/postres./"
+            },
+            {
+                "tipo_producto": "PRODUCTOS DE QUESO",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/productos-de-queso/"
+            },
+            {
+                "tipo_producto": "TORTAS",
+                "link": "https://www.mercadozapatoca.com/c/desayuno/reposteria/tortas/"
+            }
+        ]
+    },
+    "DESECHABLES": {
+        "ACCESORIOS DECORACION": [
+            {
+                "tipo_producto": "BOMBAS",
+                "link": "https://www.mercadozapatoca.com/c/desechables/accesorios-decoracion/bombas/"
+            },
+            {
+                "tipo_producto": "OTROS ACCESORIOS",
+                "link": "https://www.mercadozapatoca.com/c/desechables/accesorios-decoracion/otros-accesorios/"
+            }
+        ],
+        "DESECHABLES": [
+            {
+                "tipo_producto": "ALUMINIOS",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/aluminios/"
+            },
+            {
+                "tipo_producto": "BOLSAS",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/bolsas/"
+            },
+            {
+                "tipo_producto": "CONTENEDOR Y PORTACOMIDA",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/contenedor-y-portacomida/"
+            },
+            {
+                "tipo_producto": "CUBIERTOS DESECHABLES",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/cubiertos-desechables/"
+            },
+            {
+                "tipo_producto": "FILTROS",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/filtros/"
+            },
+            {
+                "tipo_producto": "PALOS Y PALILLOS MADERA",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/palos-y-palillos-madera/"
+            },
+            {
+                "tipo_producto": "PLATOS",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/platos/"
+            },
+            {
+                "tipo_producto": "VASOS Y COPAS",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/vasos-y-copas/"
+            },
+            {
+                "tipo_producto": "VINIPEL",
+                "link": "https://www.mercadozapatoca.com/c/desechables/desechables/vinipel/"
+            }
+        ],
+        "PAPEL Y BOLSAS REGALO": [
+            {
+                "tipo_producto": "PAPEL Y BOLSAS REGALO",
+                "link": "https://www.mercadozapatoca.com/c/desechables/papel-y-bolsas-regalo/"
+            }
+        ],
+        "TOALLAS DE COCINA": [
+            {
+                "tipo_producto": "TOALLAS DE COCINA",
+                "link": "https://www.mercadozapatoca.com/c/desechables/toallas-de-cocina/"
+            }
+        ]
+    },
+    "DROGUERIA": {
+        "BELLEZA": [
+            {
+                "tipo_producto": "ACCESORIOS DE BELLEZA",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/belleza/accesorios-de-belleza/"
+            },
+            {
+                "tipo_producto": "COSMÉTICOS",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/belleza/cosmeticos/"
+            },
+            {
+                "tipo_producto": "CUIDADO DE LA PIEL",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/belleza/cuidado-de-la-piel/"
+            },
+            {
+                "tipo_producto": "DERCOSMETICOS",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/belleza/dercosmeticos/"
+            }
+        ],
+        "CUIDADO DEL BEBE": [
+            {
+                "tipo_producto": "FORMULAS INFANTILES",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/cuidado-del-bebe/formulas-infantiles/"
+            }
+        ],
+        "CUIDADO PERSONAL": [
+            {
+                "tipo_producto": "BIENESTAR SEXUAL",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/cuidado-personal/bienestar-sexual/"
+            },
+            {
+                "tipo_producto": "CUIDADO BUCAL",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/cuidado-personal/cuidado-bucal/"
+            },
+            {
+                "tipo_producto": "CUIDADO CAPILAR",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/cuidado-personal/cuidado-capilar/"
+            }
+        ],
+        "SALUD Y MEDICAMENTOS": [
+            {
+                "tipo_producto": "ALIVIO DEL DOLOR",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/alivio-del-dolor/"
+            },
+            {
+                "tipo_producto": "BOTIQUIN PRIMEROS AUXILIO",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/botiquin-primeros-auxilio/"
+            },
+            {
+                "tipo_producto": "CUIDADO DE LA VISTA",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/cuidado-de-la-vista/"
+            },
+            {
+                "tipo_producto": "CUIDADO DE LOS PIES Y ANT",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/cuidado-de-los-pies-y-ant/"
+            },
+            {
+                "tipo_producto": "DERMATOLOGICOS",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/dermatologicos/"
+            },
+            {
+                "tipo_producto": "NUTRICION Y VIDA SALUDABL",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/nutricion-y-vida-saludabl/"
+            },
+            {
+                "tipo_producto": "OTROS SALUD Y MEDICAMENTO",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/otros-salud-y-medicamento/"
+            },
+            {
+                "tipo_producto": "SALUD DIGESTIVA",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/salud-digestiva/"
+            },
+            {
+                "tipo_producto": "TRATAMIENTO DE LA GRIPA",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/tratamiento-de-la-gripa/"
+            },
+            {
+                "tipo_producto": "VITAMINAS Y PRODUCTOS NAT",
+                "link": "https://www.mercadozapatoca.com/c/drogueria/salud-y-medicamentos/vitaminas-y-productos-nat/"
+            }
+        ]
+    },
+    "ELECTRODOMESTICOS": {
+        "ELECTRO": [
+            {
+                "tipo_producto": "ELECTRO BELLEZA",
+                "link": "https://www.mercadozapatoca.com/c/electrodomesticos/electro/electro-belleza/"
+            },
+            {
+                "tipo_producto": "ELECTRO MAYORES",
+                "link": "https://www.mercadozapatoca.com/c/electrodomesticos/electro/electro-mayores/"
+            },
+            {
+                "tipo_producto": "ELECTRO MENORES",
+                "link": "https://www.mercadozapatoca.com/c/electrodomesticos/electro/electro-menores/"
+            }
+        ]
+    },
+    "ESCOLAR": {
+        "BLOCK": [
+            {
+                "tipo_producto": "BLOCK BLANCO",
+                "link": "https://www.mercadozapatoca.com/c/escolar/block/block-blanco/"
+            },
+            {
+                "tipo_producto": "CUADRICULADO",
+                "link": "https://www.mercadozapatoca.com/c/escolar/block/cuadriculado/"
+            },
+            {
+                "tipo_producto": "HORIZONTAL",
+                "link": "https://www.mercadozapatoca.com/c/escolar/block/horizontal/"
+            },
+            {
+                "tipo_producto": "IRIS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/block/iris/"
+            },
+            {
+                "tipo_producto": "MILIMETRADO",
+                "link": "https://www.mercadozapatoca.com/c/escolar/block/milimetrado/"
+            },
+            {
+                "tipo_producto": "ORIGAMI",
+                "link": "https://www.mercadozapatoca.com/c/escolar/block/origami/"
+            }
+        ],
+        "CARPETAS": [
+            {
+                "tipo_producto": "ARCHIVADOR",
+                "link": "https://www.mercadozapatoca.com/c/escolar/carpetas/archivador/"
+            },
+            {
+                "tipo_producto": "CARTON",
+                "link": "https://www.mercadozapatoca.com/c/escolar/carpetas/carton/"
+            },
+            {
+                "tipo_producto": "MALETIN",
+                "link": "https://www.mercadozapatoca.com/c/escolar/carpetas/maletin/"
+            },
+            {
+                "tipo_producto": "PLASTICA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/carpetas/plastica/"
+            },
+            {
+                "tipo_producto": "SOBRE",
+                "link": "https://www.mercadozapatoca.com/c/escolar/carpetas/sobre/"
+            }
+        ],
+        "CUADERNOS": [
+            {
+                "tipo_producto": "CUADERNOS UNISEX",
+                "link": "https://www.mercadozapatoca.com/c/escolar/cuadernos/cuadernos-unisex/"
+            }
+        ],
+        "DICCIONARIOS": [
+            {
+                "tipo_producto": "ESPAÑOL",
+                "link": "https://www.mercadozapatoca.com/c/escolar/diccionarios/espanol/"
+            }
+        ],
+        "MALETAS CARTUCHERAS": [
+            {
+                "tipo_producto": "MASCULINO",
+                "link": "https://www.mercadozapatoca.com/c/escolar/maletas-cartucheras/masculino/"
+            }
+        ],
+        "PAPELERIA": [
+            {
+                "tipo_producto": "CARTON PAJA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/carton-paja/"
+            },
+            {
+                "tipo_producto": "CARTULINA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/cartulina/"
+            },
+            {
+                "tipo_producto": "CHINCHES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/chinches/"
+            },
+            {
+                "tipo_producto": "COSEDORA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/cosedora/"
+            },
+            {
+                "tipo_producto": "DELANTALES ESCOLARES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/delantales-escolares/"
+            },
+            {
+                "tipo_producto": "FICHAS BIBLIOGRAFICAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/fichas-bibliograficas/"
+            },
+            {
+                "tipo_producto": "FOMI",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/fomi/"
+            },
+            {
+                "tipo_producto": "FORROS ESCOLAR",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/forros-escolar/"
+            },
+            {
+                "tipo_producto": "GANCHOS COSEDORA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/ganchos-cosedora/"
+            },
+            {
+                "tipo_producto": "LANA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/lana/"
+            },
+            {
+                "tipo_producto": "LUPA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/lupa/"
+            },
+            {
+                "tipo_producto": "NOTAS ADHESIVAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/notas-adhesivas/"
+            },
+            {
+                "tipo_producto": "PAPEL",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/papel/"
+            },
+            {
+                "tipo_producto": "PAPEL CONTAC",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/papel-contac/"
+            },
+            {
+                "tipo_producto": "PAPEL CREPE",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/papel-crepe/"
+            },
+            {
+                "tipo_producto": "PAPEL KRAFT",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/papel-kraft/"
+            },
+            {
+                "tipo_producto": "PAPEL SILUETA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/papel-silueta/"
+            },
+            {
+                "tipo_producto": "PERFORADORA PAPEL",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/perforadora-papel/"
+            },
+            {
+                "tipo_producto": "PERGAMINO",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/pergamino/"
+            },
+            {
+                "tipo_producto": "PLANILLERO",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/planillero/"
+            },
+            {
+                "tipo_producto": "PROTECTOR HOJAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/protector-hojas/"
+            },
+            {
+                "tipo_producto": "REPUESTOS HOJAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/repuestos-hojas/"
+            },
+            {
+                "tipo_producto": "SEPARADORES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/separadores/"
+            },
+            {
+                "tipo_producto": "SOBRES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/papeleria/sobres/"
+            }
+        ],
+        "UTILES ESCOLARES": [
+            {
+                "tipo_producto": "ACUARELA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/acuarela/"
+            },
+            {
+                "tipo_producto": "BISTURI",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/bisturi/"
+            },
+            {
+                "tipo_producto": "BORRADORES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/borradores/"
+            },
+            {
+                "tipo_producto": "CALCULADORA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/calculadora/"
+            },
+            {
+                "tipo_producto": "CINTA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/cinta/"
+            },
+            {
+                "tipo_producto": "COLORES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/colores/"
+            },
+            {
+                "tipo_producto": "COMPAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/compas/"
+            },
+            {
+                "tipo_producto": "CORRECTORES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/correctores/"
+            },
+            {
+                "tipo_producto": "CRAYONES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/crayones/"
+            },
+            {
+                "tipo_producto": "DELANTAL",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/delantal/"
+            },
+            {
+                "tipo_producto": "ESCARCHA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/escarcha/"
+            },
+            {
+                "tipo_producto": "ESFEROS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/esferos/"
+            },
+            {
+                "tipo_producto": "LAPICES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/lapices/"
+            },
+            {
+                "tipo_producto": "MARCADORES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/marcadores/"
+            },
+            {
+                "tipo_producto": "MICROPUNTAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/micropuntas/"
+            },
+            {
+                "tipo_producto": "MINAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/minas/"
+            },
+            {
+                "tipo_producto": "PALO PALETA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/palo-paleta/"
+            },
+            {
+                "tipo_producto": "PEGANTE",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/pegante/"
+            },
+            {
+                "tipo_producto": "PERFORADORA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/perforadora/"
+            },
+            {
+                "tipo_producto": "PINCELES",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/pinceles/"
+            },
+            {
+                "tipo_producto": "PLASTILINA",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/plastilina/"
+            },
+            {
+                "tipo_producto": "PORTAMINAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/portaminas/"
+            },
+            {
+                "tipo_producto": "REGLAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/reglas/"
+            },
+            {
+                "tipo_producto": "TABLEROS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/tableros/"
+            },
+            {
+                "tipo_producto": "TAJALAPIZ",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/tajalapiz/"
+            },
+            {
+                "tipo_producto": "TEMPERAS Y VINILOS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/temperas-y-vinilos/"
+            },
+            {
+                "tipo_producto": "TIJERAS",
+                "link": "https://www.mercadozapatoca.com/c/escolar/utiles-escolares/tijeras/"
+            }
+        ]
+    },
+    "FRUVER": {
+        "CARBON Y LEÑA": [
+            {
+                "tipo_producto": "CARBON",
+                "link": "https://www.mercadozapatoca.com/c/fruver/carbon-y-lena/carbon/"
+            }
+        ],
+        "ESPECIAS FE": [
+            {
+                "tipo_producto": "APIO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/especias-fe/apio/"
+            },
+            {
+                "tipo_producto": "AROMATICAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/especias-fe/aromaticas/"
+            },
+            {
+                "tipo_producto": "CILANTRO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/especias-fe/cilantro/"
+            },
+            {
+                "tipo_producto": "CURCUMA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/especias-fe/curcuma/"
+            },
+            {
+                "tipo_producto": "JENGIBRE",
+                "link": "https://www.mercadozapatoca.com/c/fruver/especias-fe/jengibre/"
+            },
+            {
+                "tipo_producto": "PEREJIL",
+                "link": "https://www.mercadozapatoca.com/c/fruver/especias-fe/perejil/"
+            }
+        ],
+        "FRUTAS FF": [
+            {
+                "tipo_producto": "AGRAZ",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/agraz/"
+            },
+            {
+                "tipo_producto": "AGUACATE",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/aguacate/"
+            },
+            {
+                "tipo_producto": "BADEA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/badea/"
+            },
+            {
+                "tipo_producto": "BANANO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/banano/"
+            },
+            {
+                "tipo_producto": "BOROJO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/borojo/"
+            },
+            {
+                "tipo_producto": "BREVAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/brevas/"
+            },
+            {
+                "tipo_producto": "CARAMBOLO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/carambolo/"
+            },
+            {
+                "tipo_producto": "CIRUELA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/ciruela/"
+            },
+            {
+                "tipo_producto": "COCO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/coco/"
+            },
+            {
+                "tipo_producto": "CURUBA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/curuba/"
+            },
+            {
+                "tipo_producto": "DURAZNO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/durazno/"
+            },
+            {
+                "tipo_producto": "FRESA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/fresa/"
+            },
+            {
+                "tipo_producto": "GRANADILLA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/granadilla/"
+            },
+            {
+                "tipo_producto": "GUANABANA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/guanabana/"
+            },
+            {
+                "tipo_producto": "GUAYABA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/guayaba/"
+            },
+            {
+                "tipo_producto": "GULUPA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/gulupa/"
+            },
+            {
+                "tipo_producto": "HIGOS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/higos/"
+            },
+            {
+                "tipo_producto": "KIWI",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/kiwi/"
+            },
+            {
+                "tipo_producto": "LIMON",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/limon/"
+            },
+            {
+                "tipo_producto": "LULO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/lulo/"
+            },
+            {
+                "tipo_producto": "MAMONCILLO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/mamoncillo/"
+            },
+            {
+                "tipo_producto": "MANDARINA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/mandarina/"
+            },
+            {
+                "tipo_producto": "MANGO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/mango/"
+            },
+            {
+                "tipo_producto": "MANZANA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/manzana/"
+            },
+            {
+                "tipo_producto": "MARACUYA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/maracuya/"
+            },
+            {
+                "tipo_producto": "MELON",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/melon/"
+            },
+            {
+                "tipo_producto": "MORA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/mora/"
+            },
+            {
+                "tipo_producto": "NARANJA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/naranja/"
+            },
+            {
+                "tipo_producto": "PAPAYA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/papaya/"
+            },
+            {
+                "tipo_producto": "PAPAYUELA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/papayuela/"
+            },
+            {
+                "tipo_producto": "PATILLA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/patilla/"
+            },
+            {
+                "tipo_producto": "PERA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/pera/"
+            },
+            {
+                "tipo_producto": "PIÑA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/pina/"
+            },
+            {
+                "tipo_producto": "PITAYA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/pitaya/"
+            },
+            {
+                "tipo_producto": "TAMARINDO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/tamarindo/"
+            },
+            {
+                "tipo_producto": "TOMATE DE ARBOL",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/tomate-de-arbol/"
+            },
+            {
+                "tipo_producto": "UCHUVAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/uchuvas/"
+            },
+            {
+                "tipo_producto": "UVAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/frutas-ff/uvas/"
+            }
+        ],
+        "HORTALIZAS FH": [
+            {
+                "tipo_producto": "ACELGA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/acelga/"
+            },
+            {
+                "tipo_producto": "AHUYAMA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/ahuyama/"
+            },
+            {
+                "tipo_producto": "AJO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/ajo/"
+            },
+            {
+                "tipo_producto": "BERENJENA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/berenjena/"
+            },
+            {
+                "tipo_producto": "CALABACIN",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/calabacin/"
+            },
+            {
+                "tipo_producto": "CALABAZA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/calabaza/"
+            },
+            {
+                "tipo_producto": "COLICERO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/colicero/"
+            },
+            {
+                "tipo_producto": "NOPAL",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/nopal/"
+            },
+            {
+                "tipo_producto": "PIMENTON",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/pimenton/"
+            },
+            {
+                "tipo_producto": "PLATANO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/platano/"
+            },
+            {
+                "tipo_producto": "REPOLLO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/repollo/"
+            },
+            {
+                "tipo_producto": "SABILA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/sabila/"
+            },
+            {
+                "tipo_producto": "TOMATE",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/tomate/"
+            },
+            {
+                "tipo_producto": "ZUKINI",
+                "link": "https://www.mercadozapatoca.com/c/fruver/hortalizas-fh/zukini/"
+            }
+        ],
+        "LEGUMBRES FL": [
+            {
+                "tipo_producto": "BALUY",
+                "link": "https://www.mercadozapatoca.com/c/fruver/legumbres-fl/baluy/"
+            },
+            {
+                "tipo_producto": "FRIJOL FRESCO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/legumbres-fl/frijol-fresco/"
+            },
+            {
+                "tipo_producto": "GERMINADOS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/legumbres-fl/germinados/"
+            },
+            {
+                "tipo_producto": "HABAS FRESCAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/legumbres-fl/habas-frescas/"
+            },
+            {
+                "tipo_producto": "MAZORCA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/legumbres-fl/mazorca/"
+            },
+            {
+                "tipo_producto": "RAICES CHINAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/legumbres-fl/raices-chinas/"
+            }
+        ],
+        "PULPAS DE FRUTA": [
+            {
+                "tipo_producto": "PULPAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/pulpas-de-fruta/pulpas/"
+            }
+        ],
+        "TUBERCULOS FT": [
+            {
+                "tipo_producto": "ARRACACHA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/arracacha/"
+            },
+            {
+                "tipo_producto": "BATATA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/batata/"
+            },
+            {
+                "tipo_producto": "CABEZONA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/cabezona/"
+            },
+            {
+                "tipo_producto": "CEBOLLA LARGA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/cebolla-larga/"
+            },
+            {
+                "tipo_producto": "CEBOLLA PUERRO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/cebolla-puerro/"
+            },
+            {
+                "tipo_producto": "CHUGUAS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/chuguas/"
+            },
+            {
+                "tipo_producto": "CUBIOS",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/cubios/"
+            },
+            {
+                "tipo_producto": "ÑAME",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/name/"
+            },
+            {
+                "tipo_producto": "PAPA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/papa/"
+            },
+            {
+                "tipo_producto": "PAPA SUCIA EMPACADA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/papa-sucia-empacada/"
+            },
+            {
+                "tipo_producto": "RABANO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/rabano/"
+            },
+            {
+                "tipo_producto": "REMOLACHA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/remolacha/"
+            },
+            {
+                "tipo_producto": "YACON",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/yacon/"
+            },
+            {
+                "tipo_producto": "YUCA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/yuca/"
+            },
+            {
+                "tipo_producto": "ZANAHORIA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/tuberculos-ft/zanahoria/"
+            }
+        ],
+        "VERDURAS FV": [
+            {
+                "tipo_producto": "ALCACHOFA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/alcachofa/"
+            },
+            {
+                "tipo_producto": "ARVEJA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/arveja/"
+            },
+            {
+                "tipo_producto": "BROCOLI",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/brocoli/"
+            },
+            {
+                "tipo_producto": "COLIFLOR",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/coliflor/"
+            },
+            {
+                "tipo_producto": "ESPINACA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/espinaca/"
+            },
+            {
+                "tipo_producto": "GUATILA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/guatila/"
+            },
+            {
+                "tipo_producto": "HABICHUELA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/habichuela/"
+            },
+            {
+                "tipo_producto": "LECHUGA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/lechuga/"
+            },
+            {
+                "tipo_producto": "LECHUGA HIDROPONICA",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/lechuga-hidroponica/"
+            },
+            {
+                "tipo_producto": "PEPINO",
+                "link": "https://www.mercadozapatoca.com/c/fruver/verduras-fv/pepino/"
+            }
+        ]
+    },
+    "INGRESOS ADICIONALES": {
+        "LONAS Y COSTALES": [
+            {
+                "tipo_producto": "LONAS Y COSTALES",
+                "link": "https://www.mercadozapatoca.com/c/ingresos-adicionales/lonas-y-costales/"
+            }
+        ],
+        "PRODUCTOS VARIOS": [
+            {
+                "tipo_producto": "PRODUCTOS VARIOS",
+                "link": "https://www.mercadozapatoca.com/c/ingresos-adicionales/productos-varios/"
+            }
+        ],
+        "TARJETA REGALO ZAPATOCA": [
+            {
+                "tipo_producto": "TARJETA REGALO ZAPATOCA",
+                "link": "https://www.mercadozapatoca.com/c/ingresos-adicionales/tarjeta-regalo-zapatoca/"
+            }
+        ]
+    },
+    "LICORES Y": {
+        "AGUARDIENTES": [
+            {
+                "tipo_producto": "BLANCO",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/aguardientes/blanco/"
+            }
+        ],
+        "BRANDY": [
+            {
+                "tipo_producto": "BRANDY",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/brandy/"
+            }
+        ],
+        "CERVEZAS": [
+            {
+                "tipo_producto": "ARTESANALES",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/cervezas/artesanales/"
+            },
+            {
+                "tipo_producto": "IMPORTADAS",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/cervezas/importadas/"
+            },
+            {
+                "tipo_producto": "NACIONALES",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/cervezas/nacionales/"
+            }
+        ],
+        "CIGARRILLOS": [
+            {
+                "tipo_producto": "CIGARRILLO",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/cigarrillos/cigarrillo/"
+            }
+        ],
+        "COCTELERIA": [
+            {
+                "tipo_producto": "SIROPE",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/cocteleria/sirope/"
+            }
+        ],
+        "CREMAS": [
+            {
+                "tipo_producto": "WHISKY",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/cremas/whisky/"
+            }
+        ],
+        "GINEBRA": [
+            {
+                "tipo_producto": "GINEBRA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/ginebra/"
+            }
+        ],
+        "PIÑA COLADA": [
+            {
+                "tipo_producto": "PIÑA COLADA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/pina-colada/"
+            }
+        ],
+        "RON": [
+            {
+                "tipo_producto": "RON",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/ron/"
+            }
+        ],
+        "SABAJON": [
+            {
+                "tipo_producto": "SABAJON",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/sabajon/"
+            }
+        ],
+        "TEQUILA": [
+            {
+                "tipo_producto": "TEQUILA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/tequila/"
+            }
+        ],
+        "VINOS ESPUMOSOS": [
+            {
+                "tipo_producto": "IMPORTADO",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-espumosos/importado/"
+            }
+        ],
+        "VINOS IMPORTADOS": [
+            {
+                "tipo_producto": "ARGENTINA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-importados/argentina/"
+            },
+            {
+                "tipo_producto": "CHILE",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-importados/chile/"
+            },
+            {
+                "tipo_producto": "EE.UU",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-importados/ee.uu/"
+            },
+            {
+                "tipo_producto": "ESPAÑA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-importados/espana/"
+            },
+            {
+                "tipo_producto": "FRANCIA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-importados/francia/"
+            }
+        ],
+        "VINOS NACIONALES": [
+            {
+                "tipo_producto": "DULCES",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-nacionales/dulces/"
+            },
+            {
+                "tipo_producto": "SECOS",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vinos-nacionales/secos/"
+            }
+        ],
+        "VODKA": [
+            {
+                "tipo_producto": "VODKA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/vodka/"
+            }
+        ],
+        "WHISKYS": [
+            {
+                "tipo_producto": "MALTA",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/whiskys/malta/"
+            },
+            {
+                "tipo_producto": "MEZCLAS",
+                "link": "https://www.mercadozapatoca.com/c/licores-y/whiskys/mezclas/"
+            }
+        ]
+    },
+    "LIMPIEZA HOGAR": {
+        "ACCESORIOS Y ORGANIZADOR": [
+            {
+                "tipo_producto": "ORGANIZADORES",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/accesorios-y-organizador/organizadores/"
+            }
+        ],
+        "BOLSAS DE BASURA": [
+            {
+                "tipo_producto": "BOLSAS DE BASURA",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/bolsas-de-basura/"
+            }
+        ],
+        "CEPILLOS DE ASEO": [
+            {
+                "tipo_producto": "CEPILLOS DE BAÑO",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/cepillos-de-aseo/cepillos-de-bano/"
+            },
+            {
+                "tipo_producto": "CEPILLOS DE ROPA",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/cepillos-de-aseo/cepillos-de-ropa/"
+            },
+            {
+                "tipo_producto": "CEPILLOS PISO",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/cepillos-de-aseo/cepillos-piso/"
+            }
+        ],
+        "CHUPAS": [
+            {
+                "tipo_producto": "CHUPAS",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/chupas/"
+            }
+        ],
+        "ESCOBAS": [
+            {
+                "tipo_producto": "ESCOBAS",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/escobas/"
+            }
+        ],
+        "GUANTES": [
+            {
+                "tipo_producto": "GUANTES DOMESTICOS",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/guantes/guantes-domesticos/"
+            },
+            {
+                "tipo_producto": "GUANTES INDUSTRIALES",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/guantes/guantes-industriales/"
+            },
+            {
+                "tipo_producto": "SEGURIDAD INDUSTRIAL",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/guantes/seguridad-industrial/"
+            }
+        ],
+        "OTROS LIMPIEZA HOGAR": [
+            {
+                "tipo_producto": "OTROS LIMPIEZA HOGAR",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/otros-limpieza-hogar/"
+            }
+        ],
+        "RECOGEDORES": [
+            {
+                "tipo_producto": "RECOGEDORES",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/recogedores/"
+            }
+        ],
+        "TRAPEROS": [
+            {
+                "tipo_producto": "AUTOESCURRIBLE",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/traperos/autoescurrible/"
+            },
+            {
+                "tipo_producto": "TRAPERO",
+                "link": "https://www.mercadozapatoca.com/c/limpieza-hogar/traperos/trapero/"
+            }
+        ]
+    },
+    "LINEA BEBES": {
+        "CUIDADOS PARA EL BEBE": [
+            {
+                "tipo_producto": "ACEITE BEBE",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/aceite-bebe/"
+            },
+            {
+                "tipo_producto": "BAÑO LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/bano-liquido/"
+            },
+            {
+                "tipo_producto": "COPITOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/copitos/"
+            },
+            {
+                "tipo_producto": "CREMAS BEBE",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/cremas-bebe/"
+            },
+            {
+                "tipo_producto": "JABON BARRA",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/jabon-barra/"
+            },
+            {
+                "tipo_producto": "PAÑALES",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/panales/"
+            },
+            {
+                "tipo_producto": "SHAMPOO BEBE",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/shampoo-bebe/"
+            },
+            {
+                "tipo_producto": "TALCOS BEBE",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/talcos-bebe/"
+            },
+            {
+                "tipo_producto": "TOALLAS HUMEDAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-bebes/cuidados-para-el-bebe/toallas-humedas/"
+            }
+        ]
+    },
+    "LINEA HIGIENICA": {
+        "PAPEL HIGIENICO": [
+            {
+                "tipo_producto": "EXTRA GRANDES APROX 32 ME",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/papel-higienico/extra-grandes-aprox-32-me/"
+            },
+            {
+                "tipo_producto": "GRANDES APROX 25 METROS",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/papel-higienico/grandes-aprox-25-metros/"
+            },
+            {
+                "tipo_producto": "INDUSTRIAL",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/papel-higienico/industrial/"
+            },
+            {
+                "tipo_producto": "MEGARROLLO APROX 40 METRO",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/papel-higienico/megarrollo-aprox-40-metro/"
+            },
+            {
+                "tipo_producto": "PAPEL HIG HUMEDO",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/papel-higienico/papel-hig-humedo/"
+            },
+            {
+                "tipo_producto": "SUAVES",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/papel-higienico/suaves/"
+            }
+        ],
+        "PROTECCION ADULTA": [
+            {
+                "tipo_producto": "PAÑALES",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-adulta/panales/"
+            },
+            {
+                "tipo_producto": "PANTS",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-adulta/pants/"
+            },
+            {
+                "tipo_producto": "PROTECTORES",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-adulta/protectores/"
+            },
+            {
+                "tipo_producto": "TOALLAS HIGIENICAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-adulta/toallas-higienicas/"
+            },
+            {
+                "tipo_producto": "TOALLAS HUMEDAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-adulta/toallas-humedas/"
+            }
+        ],
+        "PROTECCION FEMENINA": [
+            {
+                "tipo_producto": "JABON INTIMO",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-femenina/jabon-intimo/"
+            },
+            {
+                "tipo_producto": "PAÑITOS INTIMOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-femenina/panitos-intimos/"
+            },
+            {
+                "tipo_producto": "PROTECTORES",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-femenina/protectores/"
+            },
+            {
+                "tipo_producto": "TAMPONES",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-femenina/tampones/"
+            },
+            {
+                "tipo_producto": "TOALLAS HIGIENICAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/proteccion-femenina/toallas-higienicas/"
+            }
+        ],
+        "TOALLAS DE MANOS": [
+            {
+                "tipo_producto": "DESECHABLE",
+                "link": "https://www.mercadozapatoca.com/c/linea-higienica/toallas-de-manos/desechable/"
+            }
+        ]
+    },
+    "LINEA HOGAR": {
+        "ALUMINIOS Y ACERO": [
+            {
+                "tipo_producto": "BATERIAS DE COCINA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/aluminios-y-acero/baterias-de-cocina/"
+            },
+            {
+                "tipo_producto": "ESCURRIDORES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/aluminios-y-acero/escurridores/"
+            },
+            {
+                "tipo_producto": "MOLDES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/aluminios-y-acero/moldes/"
+            },
+            {
+                "tipo_producto": "OLLAS Y CALDEROS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/aluminios-y-acero/ollas-y-calderos/"
+            },
+            {
+                "tipo_producto": "OLLETAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/aluminios-y-acero/olletas/"
+            },
+            {
+                "tipo_producto": "SARTENES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/aluminios-y-acero/sartenes/"
+            },
+            {
+                "tipo_producto": "TERMOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/aluminios-y-acero/termos/"
+            }
+        ],
+        "CERAMICA": [
+            {
+                "tipo_producto": "LOZA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/ceramica/loza/"
+            },
+            {
+                "tipo_producto": "VAJILLAS CERAMICA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/ceramica/vajillas-ceramica/"
+            }
+        ],
+        "CRISTALERIA": [
+            {
+                "tipo_producto": "JARRAS DE CRISTAL",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/cristaleria/jarras-de-cristal/"
+            },
+            {
+                "tipo_producto": "SET CRISTAL",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/cristaleria/set-cristal/"
+            },
+            {
+                "tipo_producto": "TAPER",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/cristaleria/taper/"
+            },
+            {
+                "tipo_producto": "VASO TRAGO LARGO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/cristaleria/vaso-trago-largo/"
+            }
+        ],
+        "FERRETERIA": [
+            {
+                "tipo_producto": "ACEITE 3 EN 1",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/ferreteria/aceite-3-en-1/"
+            },
+            {
+                "tipo_producto": "BRILLA METAL",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/ferreteria/brilla-metal/"
+            },
+            {
+                "tipo_producto": "HERRAMIENTAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/ferreteria/herramientas/"
+            }
+        ],
+        "LENCERIA": [
+            {
+                "tipo_producto": "SABANA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/lenceria/sabana/"
+            }
+        ],
+        "MELAMINA": [
+            {
+                "tipo_producto": "BANDEJA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/melamina/bandeja/"
+            },
+            {
+                "tipo_producto": "BOWL",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/melamina/bowl/"
+            },
+            {
+                "tipo_producto": "PLATO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/melamina/plato/"
+            }
+        ],
+        "PAPEL Y MOLDES ALUMINIO": [
+            {
+                "tipo_producto": "PAPEL ALUMINIO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/papel-y-moldes-aluminio/papel-aluminio/"
+            }
+        ],
+        "PLASTICOS": [
+            {
+                "tipo_producto": "ACCESORIOS DE PLANCHAR",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/accesorios-de-planchar/"
+            },
+            {
+                "tipo_producto": "ACCESORIOS JARDINERIA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/accesorios-jardineria/"
+            },
+            {
+                "tipo_producto": "ALCANCIA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/alcancia/"
+            },
+            {
+                "tipo_producto": "BALDES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/baldes/"
+            },
+            {
+                "tipo_producto": "BOTILITOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/botilitos/"
+            },
+            {
+                "tipo_producto": "CAJAS PLASTICAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/cajas-plasticas/"
+            },
+            {
+                "tipo_producto": "CANASTOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/canastos/"
+            },
+            {
+                "tipo_producto": "CANECAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/canecas/"
+            },
+            {
+                "tipo_producto": "CARROS DE MERCADO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/carros-de-mercado/"
+            },
+            {
+                "tipo_producto": "CEPILLO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/cepillo/"
+            },
+            {
+                "tipo_producto": "CONTENEDOR PLASTICO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/contenedor-plastico/"
+            },
+            {
+                "tipo_producto": "JARRAS DE PLASTICO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/jarras-de-plastico/"
+            },
+            {
+                "tipo_producto": "PLATEROS Y ESCURRIDORES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/plateros-y-escurridores/"
+            },
+            {
+                "tipo_producto": "PONCHERAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/poncheras/"
+            },
+            {
+                "tipo_producto": "PORTA PAPEL PLASTICO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/porta-papel-plastico/"
+            },
+            {
+                "tipo_producto": "RALLADOR",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/rallador/"
+            },
+            {
+                "tipo_producto": "RECIPIENTES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/recipientes/"
+            },
+            {
+                "tipo_producto": "RESTAURANTE",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/plasticos/restaurante/"
+            }
+        ],
+        "TEXTIL": [
+            {
+                "tipo_producto": "INDIVIDUALES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/textil/individuales/"
+            },
+            {
+                "tipo_producto": "LIMPIONES TEXTIL",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/textil/limpiones-textil/"
+            },
+            {
+                "tipo_producto": "SOMBRILLAS TEXTIL",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/textil/sombrillas-textil/"
+            }
+        ],
+        "UTENSILIOS DE COCINA": [
+            {
+                "tipo_producto": "ABLANDADOR",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/ablandador/"
+            },
+            {
+                "tipo_producto": "AFILADOR",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/afilador/"
+            },
+            {
+                "tipo_producto": "BANDEJA COCINA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/bandeja-cocina/"
+            },
+            {
+                "tipo_producto": "BATIDORES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/batidores/"
+            },
+            {
+                "tipo_producto": "COLADORES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/coladores/"
+            },
+            {
+                "tipo_producto": "CORTADOR",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/cortador/"
+            },
+            {
+                "tipo_producto": "CUCHARAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/cucharas/"
+            },
+            {
+                "tipo_producto": "CUCHARON",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/cucharon/"
+            },
+            {
+                "tipo_producto": "CUCHILLOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/cuchillos/"
+            },
+            {
+                "tipo_producto": "ESPATULA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/espatula/"
+            },
+            {
+                "tipo_producto": "ESPUMADERA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/espumadera/"
+            },
+            {
+                "tipo_producto": "MANGA PASTELERA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/manga-pastelera/"
+            },
+            {
+                "tipo_producto": "MORTERO",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/mortero/"
+            },
+            {
+                "tipo_producto": "OTROS COCINA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/otros-cocina/"
+            },
+            {
+                "tipo_producto": "PINZAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/pinzas/"
+            },
+            {
+                "tipo_producto": "PRENSA AJOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/prensa-ajos/"
+            },
+            {
+                "tipo_producto": "RALLADORES",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/ralladores/"
+            },
+            {
+                "tipo_producto": "SACA CORCHOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/saca-corchos/"
+            },
+            {
+                "tipo_producto": "SET CUBIERTOS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/set-cubiertos/"
+            },
+            {
+                "tipo_producto": "TABLAS",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/tablas/"
+            },
+            {
+                "tipo_producto": "TIJERA",
+                "link": "https://www.mercadozapatoca.com/c/linea-hogar/utensilios-de-cocina/tijera/"
+            }
+        ]
+    },
+    "MASCOTAS": {
+        "AVES": [
+            {
+                "tipo_producto": "AEREOS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/aves/aereos/"
+            },
+            {
+                "tipo_producto": "TERRESTRES",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/aves/terrestres/"
+            }
+        ],
+        "CUIDADOS PARA MASCOTAS": [
+            {
+                "tipo_producto": "ELIMINA OLORES",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/cuidados-para-mascotas/elimina-olores/"
+            }
+        ],
+        "GATOS": [
+            {
+                "tipo_producto": "ACCESORIOS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/gatos/accesorios/"
+            },
+            {
+                "tipo_producto": "ALIMENTOS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/gatos/alimentos/"
+            },
+            {
+                "tipo_producto": "ASEO",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/gatos/aseo/"
+            }
+        ],
+        "OTRAS MASCOTAS": [
+            {
+                "tipo_producto": "HAMSTERS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/otras-mascotas/hamsters/"
+            }
+        ],
+        "PECES": [
+            {
+                "tipo_producto": "ACUATICOS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/peces/acuaticos/"
+            }
+        ],
+        "PERROS": [
+            {
+                "tipo_producto": "ACCESORIOS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/perros/accesorios/"
+            },
+            {
+                "tipo_producto": "ALIMENTO SECO P",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/perros/alimento-seco-p/"
+            },
+            {
+                "tipo_producto": "ALIMENTOS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/perros/alimentos/"
+            },
+            {
+                "tipo_producto": "ASEO",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/perros/aseo/"
+            }
+        ],
+        "PREMIOS PARA MASCOTAS": [
+            {
+                "tipo_producto": "SNACKS MASCOTAS",
+                "link": "https://www.mercadozapatoca.com/c/mascotas/premios-para-mascotas/snacks--mascotas/"
+            }
+        ]
+    },
+    "NEVERAS": {
+        "AREPAS": [
+            {
+                "tipo_producto": "AREPA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/arepas/arepa/"
+            },
+            {
+                "tipo_producto": "DEDITOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/arepas/deditos/"
+            }
+        ],
+        "BATIDOS": [
+            {
+                "tipo_producto": "BATIDOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/batidos/"
+            }
+        ],
+        "CARNES FRIAS": [
+            {
+                "tipo_producto": "BUTIFARRA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/butifarra/"
+            },
+            {
+                "tipo_producto": "CABANOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/cabanos/"
+            },
+            {
+                "tipo_producto": "CARNES MADURADAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/carnes-maduradas/"
+            },
+            {
+                "tipo_producto": "CHORIZOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/chorizos/"
+            },
+            {
+                "tipo_producto": "CHULETA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/chuleta/"
+            },
+            {
+                "tipo_producto": "COMBOS CARNES FRIAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/combos-carnes-frias/"
+            },
+            {
+                "tipo_producto": "COSTILLAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/costillas/"
+            },
+            {
+                "tipo_producto": "HAMBURGUESAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/hamburguesas/"
+            },
+            {
+                "tipo_producto": "JAMONES",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/jamones/"
+            },
+            {
+                "tipo_producto": "LASAGNA NEVERA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/lasagna-nevera/"
+            },
+            {
+                "tipo_producto": "MORCILLAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/morcillas/"
+            },
+            {
+                "tipo_producto": "MORTADELAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/mortadelas/"
+            },
+            {
+                "tipo_producto": "PROTEINA VEGETALES",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/proteina-vegetales/"
+            },
+            {
+                "tipo_producto": "SALCHICHAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/salchichas/"
+            },
+            {
+                "tipo_producto": "SALCHICHON",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/salchichon/"
+            },
+            {
+                "tipo_producto": "TOCINETAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/carnes-frias/tocinetas/"
+            }
+        ],
+        "CONGELADOR": [
+            {
+                "tipo_producto": "FRUTAS Y VERDURAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/frutas-y-verduras/"
+            },
+            {
+                "tipo_producto": "GALLINA CONGELADA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/gallina-congelada/"
+            },
+            {
+                "tipo_producto": "PAPAS Y VARIOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/papas-y-varios/"
+            },
+            {
+                "tipo_producto": "PESCADO CONGELADO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/pescado-congelado/"
+            },
+            {
+                "tipo_producto": "POLLO CONGELADO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/pollo-congelado/"
+            },
+            {
+                "tipo_producto": "PRODUCTOS LISTOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/productos-listos/"
+            },
+            {
+                "tipo_producto": "PROTEINA VEGETAL",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/proteina-vegetal/"
+            },
+            {
+                "tipo_producto": "PULPAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/pulpas/"
+            },
+            {
+                "tipo_producto": "REFRESCO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/congelador/refresco/"
+            }
+        ],
+        "ENVUELTOS": [
+            {
+                "tipo_producto": "ENVUELTOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/envueltos/"
+            }
+        ],
+        "GELATINAS": [
+            {
+                "tipo_producto": "GELATINAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/gelatinas/"
+            }
+        ],
+        "GUACAMOLE": [
+            {
+                "tipo_producto": "GUACAMOLE",
+                "link": "https://www.mercadozapatoca.com/c/neveras/guacamole/"
+            }
+        ],
+        "HELADERIA": [
+            {
+                "tipo_producto": "GALLETA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/heladeria/galleta/"
+            },
+            {
+                "tipo_producto": "PALETERIA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/heladeria/paleteria/"
+            },
+            {
+                "tipo_producto": "TAKE HOME",
+                "link": "https://www.mercadozapatoca.com/c/neveras/heladeria/take-home/"
+            },
+            {
+                "tipo_producto": "TORTAS Y ROLLOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/heladeria/tortas-y-rollos/"
+            }
+        ],
+        "HUMMUS": [
+            {
+                "tipo_producto": "HUMMUS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/hummus/"
+            }
+        ],
+        "INFANTIL": [
+            {
+                "tipo_producto": "INFANTIL",
+                "link": "https://www.mercadozapatoca.com/c/neveras/infantil/"
+            }
+        ],
+        "LACTEOS": [
+            {
+                "tipo_producto": "BEBIDAS LACTEAS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/bebidas-lacteas/"
+            },
+            {
+                "tipo_producto": "DERIVADOS VEGETALES",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/derivados-vegetales/"
+            },
+            {
+                "tipo_producto": "FUNCIONALES",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/funcionales/"
+            },
+            {
+                "tipo_producto": "GRIEGO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/griego/"
+            },
+            {
+                "tipo_producto": "KEFIR",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/kefir/"
+            },
+            {
+                "tipo_producto": "KUMIS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/kumis/"
+            },
+            {
+                "tipo_producto": "LACTEOS LIGHT",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/lacteos-light/"
+            },
+            {
+                "tipo_producto": "SKYR",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/skyr/"
+            },
+            {
+                "tipo_producto": "YOGURT",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/yogurt/"
+            },
+            {
+                "tipo_producto": "YOGURT C CEREAL",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/yogurt-c-cereal/"
+            },
+            {
+                "tipo_producto": "YOGURT UHT",
+                "link": "https://www.mercadozapatoca.com/c/neveras/lacteos/yogurt-uht/"
+            }
+        ],
+        "MANTEQUILLA": [
+            {
+                "tipo_producto": "C SAL",
+                "link": "https://www.mercadozapatoca.com/c/neveras/mantequilla/c-sal/"
+            },
+            {
+                "tipo_producto": "S SAL",
+                "link": "https://www.mercadozapatoca.com/c/neveras/mantequilla/s-sal/"
+            }
+        ],
+        "POSTRES": [
+            {
+                "tipo_producto": "CHEESECAKE",
+                "link": "https://www.mercadozapatoca.com/c/neveras/postres/cheesecake/"
+            },
+            {
+                "tipo_producto": "FLAN",
+                "link": "https://www.mercadozapatoca.com/c/neveras/postres/flan/"
+            }
+        ],
+        "QUESOS": [
+            {
+                "tipo_producto": "CAMPESINO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/campesino/"
+            },
+            {
+                "tipo_producto": "COSTEÑO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/costeno/"
+            },
+            {
+                "tipo_producto": "DESHIDRATADO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/deshidratado/"
+            },
+            {
+                "tipo_producto": "DOBLE CREMA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/doble-crema/"
+            },
+            {
+                "tipo_producto": "ESPARCIBLES",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/esparcibles/"
+            },
+            {
+                "tipo_producto": "FRESCO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/fresco/"
+            },
+            {
+                "tipo_producto": "HILADOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/hilados/"
+            },
+            {
+                "tipo_producto": "MADURADOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/madurados/"
+            },
+            {
+                "tipo_producto": "MOZZARELLA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/mozzarella/"
+            },
+            {
+                "tipo_producto": "PARMESANO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/parmesano/"
+            },
+            {
+                "tipo_producto": "QUESO LIGHT",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/queso-light/"
+            },
+            {
+                "tipo_producto": "QUESO PASABOCA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/queso-pasaboca/"
+            },
+            {
+                "tipo_producto": "QUESO PERA",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/queso-pera/"
+            },
+            {
+                "tipo_producto": "RELLENOS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/rellenos/"
+            },
+            {
+                "tipo_producto": "SEMIMADUROS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/semimaduros/"
+            },
+            {
+                "tipo_producto": "SIETE CUEROS",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/siete-cueros/"
+            },
+            {
+                "tipo_producto": "SUERO COSTEÑO",
+                "link": "https://www.mercadozapatoca.com/c/neveras/quesos/suero-costeno/"
+            }
+        ],
+        "WAFFLES": [
+            {
+                "tipo_producto": "WAFFLES",
+                "link": "https://www.mercadozapatoca.com/c/neveras/waffles/"
+            }
+        ]
+    },
+    "PANADERIA": {
+        "PAN": [
+            {
+                "tipo_producto": "PAN ALIÑADO",
+                "link": "https://www.mercadozapatoca.com/c/panaderia/pan/pan-alinado/"
+            },
+            {
+                "tipo_producto": "PAN RELLENO",
+                "link": "https://www.mercadozapatoca.com/c/panaderia/pan/pan-relleno/"
+            }
+        ],
+        "PASTELERIA": [
+            {
+                "tipo_producto": "GALLETAS PANADERIA",
+                "link": "https://www.mercadozapatoca.com/c/panaderia/pasteleria/galletas-panaderia/"
+            },
+            {
+                "tipo_producto": "HOJALDRES",
+                "link": "https://www.mercadozapatoca.com/c/panaderia/pasteleria/hojaldres/"
+            },
+            {
+                "tipo_producto": "POSTRE",
+                "link": "https://www.mercadozapatoca.com/c/panaderia/pasteleria/postre/"
+            },
+            {
+                "tipo_producto": "PRODUCTOS TIPICOS",
+                "link": "https://www.mercadozapatoca.com/c/panaderia/pasteleria/productos-tipicos/"
+            },
+            {
+                "tipo_producto": "TORTAS Y PONQUES",
+                "link": "https://www.mercadozapatoca.com/c/panaderia/pasteleria/tortas-y-ponques/"
+            }
+        ]
+    },
+    "SNACKS": {
+        "BEBIDAS LIQUIDAS": [
+            {
+                "tipo_producto": "AGUA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/agua/"
+            },
+            {
+                "tipo_producto": "AVENA LIQUIDA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/avena-liquida/"
+            },
+            {
+                "tipo_producto": "CAFE LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/cafe-liquido/"
+            },
+            {
+                "tipo_producto": "ENERGIZANTES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/energizantes/"
+            },
+            {
+                "tipo_producto": "GASEOSA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/gaseosa/"
+            },
+            {
+                "tipo_producto": "HIDRATANTES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/hidratantes/"
+            },
+            {
+                "tipo_producto": "JUGOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/jugos/"
+            },
+            {
+                "tipo_producto": "REFRESCOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/refrescos/"
+            },
+            {
+                "tipo_producto": "TE LIQUIDO",
+                "link": "https://www.mercadozapatoca.com/c/snacks/bebidas-liquidas/te-liquido/"
+            }
+        ],
+        "CONFITERIA": [
+            {
+                "tipo_producto": "BARQUILLOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/barquillos/"
+            },
+            {
+                "tipo_producto": "BOMBONES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/bombones/"
+            },
+            {
+                "tipo_producto": "CARAMELOS DUROS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/caramelos-duros/"
+            },
+            {
+                "tipo_producto": "CARAMELOS MASTICABLES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/caramelos-masticables/"
+            },
+            {
+                "tipo_producto": "CHICLES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/chicles/"
+            },
+            {
+                "tipo_producto": "ESTUCHES CHOCOLATES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/estuches-chocolates/"
+            },
+            {
+                "tipo_producto": "HALLOWEEN",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/halloween/"
+            },
+            {
+                "tipo_producto": "LINEA CHOCOLATE",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/linea-chocolate/"
+            },
+            {
+                "tipo_producto": "MASMELOS GOMAS GELATINA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria/masmelos-gomas-gelatina/"
+            }
+        ],
+        "CONFITERIA P. PAGO": [
+            {
+                "tipo_producto": "CHICLES P. PAGO",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria-p.-pago/chicles-p.-pago/"
+            },
+            {
+                "tipo_producto": "CHOCOLATES P. PAGO",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria-p.-pago/chocolates-p.-pago/"
+            },
+            {
+                "tipo_producto": "DULCERIA P. PAGO",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria-p.-pago/dulceria-p.-pago/"
+            },
+            {
+                "tipo_producto": "GALLETAS P. PAGO",
+                "link": "https://www.mercadozapatoca.com/c/snacks/confiteria-p.-pago/galletas-p.-pago/"
+            }
+        ],
+        "GALLETERIA": [
+            {
+                "tipo_producto": "GALLETAS ADULTOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-adultos/"
+            },
+            {
+                "tipo_producto": "GALLETAS CASERAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-caseras/"
+            },
+            {
+                "tipo_producto": "GALLETAS CHISPAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-chispas/"
+            },
+            {
+                "tipo_producto": "GALLETAS DULCE",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-dulce/"
+            },
+            {
+                "tipo_producto": "GALLETAS INTEGRALES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-integrales/"
+            },
+            {
+                "tipo_producto": "GALLETAS LECHE",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-leche/"
+            },
+            {
+                "tipo_producto": "GALLETAS MANTEQUILLA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-mantequilla/"
+            },
+            {
+                "tipo_producto": "GALLETAS NIÑOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-ninos/"
+            },
+            {
+                "tipo_producto": "GALLETAS RECUBIERTAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-recubiertas/"
+            },
+            {
+                "tipo_producto": "GALLETAS REPOSTERIA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-reposteria/"
+            },
+            {
+                "tipo_producto": "GALLETAS SALADAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-saladas/"
+            },
+            {
+                "tipo_producto": "GALLETAS SALUDABLES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-saludables/"
+            },
+            {
+                "tipo_producto": "GALLETAS SANDWICH",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-sandwich/"
+            },
+            {
+                "tipo_producto": "GALLETAS TEMPORADA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-temporada/"
+            },
+            {
+                "tipo_producto": "GALLETAS WAFER",
+                "link": "https://www.mercadozapatoca.com/c/snacks/galleteria/galletas-wafer/"
+            }
+        ],
+        "GELATINAS EN POLVO": [
+            {
+                "tipo_producto": "GELATINA LIGHT",
+                "link": "https://www.mercadozapatoca.com/c/snacks/gelatinas-en-polvo/gelatina-light/"
+            },
+            {
+                "tipo_producto": "GELATINA TRADICIONAL",
+                "link": "https://www.mercadozapatoca.com/c/snacks/gelatinas-en-polvo/gelatina-tradicional/"
+            },
+            {
+                "tipo_producto": "SIN SABOR",
+                "link": "https://www.mercadozapatoca.com/c/snacks/gelatinas-en-polvo/sin-sabor/"
+            }
+        ],
+        "MANJARES": [
+            {
+                "tipo_producto": "ACHIRAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/achiras/"
+            },
+            {
+                "tipo_producto": "BOCADILLOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/bocadillos/"
+            },
+            {
+                "tipo_producto": "BREVAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/brevas/"
+            },
+            {
+                "tipo_producto": "CHIRRIQUITICOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/chirriquiticos/"
+            },
+            {
+                "tipo_producto": "COCADAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/cocadas/"
+            },
+            {
+                "tipo_producto": "COTUDOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/cotudos/"
+            },
+            {
+                "tipo_producto": "FRUTOS SECOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/frutos-secos/"
+            },
+            {
+                "tipo_producto": "GELATINA PATA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/gelatina-pata/"
+            },
+            {
+                "tipo_producto": "HERPOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/herpos/"
+            },
+            {
+                "tipo_producto": "OBLEAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/manjares/obleas/"
+            }
+        ],
+        "MERMELADAS Y AREQUIPES": [
+            {
+                "tipo_producto": "AREQUIPE",
+                "link": "https://www.mercadozapatoca.com/c/snacks/mermeladas-y-arequipes/arequipe/"
+            },
+            {
+                "tipo_producto": "CREMAS CHOCOLATE",
+                "link": "https://www.mercadozapatoca.com/c/snacks/mermeladas-y-arequipes/cremas-chocolate/"
+            },
+            {
+                "tipo_producto": "DULCE DE AREQUIPE",
+                "link": "https://www.mercadozapatoca.com/c/snacks/mermeladas-y-arequipes/dulce-de-arequipe/"
+            },
+            {
+                "tipo_producto": "MERMELADAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/mermeladas-y-arequipes/mermeladas/"
+            }
+        ],
+        "PASABOCAS": [
+            {
+                "tipo_producto": "CHICHARRONES",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/chicharrones/"
+            },
+            {
+                "tipo_producto": "HABAS PASABOCAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/habas-pasabocas/"
+            },
+            {
+                "tipo_producto": "HARINAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/harinas/"
+            },
+            {
+                "tipo_producto": "MAIZ",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/maiz/"
+            },
+            {
+                "tipo_producto": "MIXTOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/mixtos/"
+            },
+            {
+                "tipo_producto": "PALOMITAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/palomitas/"
+            },
+            {
+                "tipo_producto": "PAPAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/papas/"
+            },
+            {
+                "tipo_producto": "PAQUETES SURTIDOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/paquetes-surtidos/"
+            },
+            {
+                "tipo_producto": "PASABOCAS DE ARROZ",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/pasabocas-de-arroz/"
+            },
+            {
+                "tipo_producto": "PITAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/pitas/"
+            },
+            {
+                "tipo_producto": "PLATANOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/platanos/"
+            },
+            {
+                "tipo_producto": "TOCINETAS PASABOCAS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/pasabocas/tocinetas-pasabocas/"
+            }
+        ],
+        "REFRESCOS EN POLVO": [
+            {
+                "tipo_producto": "PANELA",
+                "link": "https://www.mercadozapatoca.com/c/snacks/refrescos-en-polvo/panela/"
+            },
+            {
+                "tipo_producto": "REFRESCOS INSTANTANEOS",
+                "link": "https://www.mercadozapatoca.com/c/snacks/refrescos-en-polvo/refrescos-instantaneos/"
+            },
+            {
+                "tipo_producto": "TE EN POLVO",
+                "link": "https://www.mercadozapatoca.com/c/snacks/refrescos-en-polvo/te-en-polvo/"
+            }
+        ]
+    }
+}

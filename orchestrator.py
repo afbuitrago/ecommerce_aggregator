@@ -14,6 +14,9 @@ sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 # --- IMPORTACIÓN DE LOS SCRAPERS ---
 from scrapers.carulla.scraper_carulla import scrape_carulla
 from scrapers.jumbo.scraper_jumbo import scrape_jumbo
+from scrapers.zapatoca.scraper_zapatoca import scrape_zapatoca
+#from scrapers.exito.scraper_exito import scrape_exito
+
 
 # User-Agent centralizado para todos los scrapers.
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
@@ -51,6 +54,8 @@ def get_logger(name, log_file, level=logging.INFO):
 SCRAPERS = {
     "carulla": scrape_carulla,
     "jumbo": scrape_jumbo,
+    "zapatoca": scrape_zapatoca
+    #"exito": scrape_exito
 }
 
 def main():

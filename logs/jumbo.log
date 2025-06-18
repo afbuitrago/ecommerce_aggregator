@@ -1,0 +1,23 @@
+2025-06-16 19:38:19,743 - jumbo - INFO - --- INICIANDO PROCESO DE SCRAPING PARA JUMBO ---
+2025-06-16 19:38:19,743 - jumbo - INFO - --- FASE 1 Omitida: Usando archivo de enlaces existente en 'raw_data/jumbo/jumbo_links.json'. ---
+2025-06-16 19:38:19,749 - jumbo - INFO - Configurando WebDriver...
+2025-06-16 19:38:22,082 - jumbo - INFO - WebDriver configurado con éxito.
+2025-06-16 19:38:22,082 - jumbo - INFO - 
+Procesando: Supermercado > Arroz y granos | URL: https://www.jumbocolombia.com/supermercado/despensa/arroz-y-granos
+2025-06-16 19:38:29,860 - jumbo - ERROR - Error CRÍTICO procesando la URL https://www.jumbocolombia.com/supermercado/despensa/arroz-y-granos: 'NoneType' object has no attribute 'is_displayed'
+Traceback (most recent call last):
+  File "/Users/andres.buitrago/Documents/Projects/ecommerce_aggregator/scrapers/jumbo/scraper_jumbo.py", line 183, in scrape_jumbo
+    wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, gallery_selector)))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/andres.buitrago/Documents/Projects/ecommerce_aggregator/proyectoScraper/lib/python3.13/site-packages/selenium/webdriver/support/wait.py", line 129, in until
+    value = method(self._driver)
+  File "/Users/andres.buitrago/Documents/Projects/ecommerce_aggregator/proyectoScraper/lib/python3.13/site-packages/selenium/webdriver/support/expected_conditions.py", line 217, in _predicate
+    return _element_if_visible(driver.find_element(*locator))
+  File "/Users/andres.buitrago/Documents/Projects/ecommerce_aggregator/proyectoScraper/lib/python3.13/site-packages/selenium/webdriver/support/expected_conditions.py", line 272, in _element_if_visible
+    return element if element.is_displayed() == visibility else False
+                      ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+2025-06-16 19:38:30,027 - jumbo - INFO - Configurando WebDriver...
+2025-06-16 19:38:31,125 - jumbo - INFO - WebDriver configurado con éxito.
+2025-06-16 19:38:31,126 - jumbo - INFO - 
+Procesando: Supermercado > Aceite | URL: https://www.jumbocolombia.com/supermercado/despensa/aceite
